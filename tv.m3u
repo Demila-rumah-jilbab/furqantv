@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png",RASYAD TV
-https://www.youtube.com/watch?v=BCW4fwuqJXo
+#EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV
+https://rasyaadtv-edge.siar.us/rasyaadtv/abr/playlist.m3u8
 #EXTINF:-2 tvg-logo="https://i.postimg.cc/nrHqHsgN/download-2.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-3 tvg-logo="sample.png",UFA TV 24
