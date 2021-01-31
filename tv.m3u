@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV
-https://rasyaadtv-edge.siar.us/rasyaadtv/abr/playlist.m3u8
+https://www.youtube.com/watch?v=BCW4fwuqJXo
 #EXTINF:-2 tvg-logo="https://i.postimg.cc/nrHqHsgN/download-2.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-3 tvg-logo="sample.png",UFA TV 24
+#EXTINF:-3 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngw_Ka2hj0IlCE_WR_NLdQojiPgJH_1---QIJQhhQ=s900-c-k-c0x00ffffff-no-rj",UFA TV 24
 https://www.youtube.com/watch?v=jcjVKpiWyGo
 #EXTINF:-4 tvg-logo="sample.png",STA TV ACEH
 https://www.youtube.com/watch?v=woIg-A4JyXk
