@@ -3,31 +3,31 @@
 https://www.youtube.com/watch?v=BCW4fwuqJXo
 #EXTINF:-2 tvg-logo="https://i.postimg.cc/nrHqHsgN/download-2.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-3 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngw_Ka2hj0IlCE_WR_NLdQojiPgJH_1---QIJQhhQ=s900-c-k-c0x00ffffff-no-rj",UFA TV 24
+#EXTINF:-3 tvg-logo="https://firanda.com/wp-content/uploads/2020/07/logo-header-ufa-03.png",UFA TV 24
 https://www.youtube.com/watch?v=jcjVKpiWyGo
-#EXTINF:-4 tvg-logo="sample.png",STA TV ACEH
+#EXTINF:-4 tvg-logo="http://www.syiartauhidaceh.com/wp-content/uploads/2019/03/cropped-20190330_131547-e1581233248845-1.png",STA TV ACEH
 https://www.youtube.com/watch?v=woIg-A4JyXk
-#EXTINF:-5 tvg-logo="sample.png",MAKKAH TV
+#EXTINF:-5 tvg-logo="https://i.pinimg.com/736x/17/ff/64/17ff64a29d2d21ddb4c6b89e4fd0613c.jpg",MAKKAH TV
 https://www.youtube.com/watch?v=EYTGj1dxTPc
-#EXTINF:-6 tvg-logo="sample.png",MADINAH TV
+#EXTINF:-6 tvg-logo="https://www.pngfind.com/pngs/m/510-5105802_free-madina-png-free-download-madinah-logo-transparent.png",MADINAH TV
 https://www.youtube.com/watch?v=zBkm_sWf1F0
-#EXTINF:-7 tvg-logo="sample.png",FATWA TV
+#EXTINF:-7 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",FATWA TV
 https://www.youtube.com/watch?v=8f_wL4pc03M
-#EXTINF:-8 tvg-logo="sample.png",GAZWAH TV
+#EXTINF:-8 tvg-logo="https://gazwah.com/uploads/configurations/1605066756.png",GAZWAH TV
 https://www.youtube.com/watch?v=b43WxjfbcPU
-#EXTINF:-9 tvg-logo="sample.png",AHSAN TV
+#EXTINF:-9 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/AHSAN-TV-Logo-1-1.png",AHSAN TV
 https://www.youtube.com/watch?v=16wZf6evq-8
 #EXTINF:-10, tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/Niaga-TV-Indonesia_o-2-1.jpg" ,NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:-11 ,Al Iman TV
+#EXTINF:-11, tvg-logo="https://aliman.id/site/wp-content/uploads/2020/11/cropped-cropped-alimanid-web-3.png",Al Iman TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
-#EXTINF:-12 tvg-logo="http://wesal.png",TARBIYAH SUNNAH TV
+#EXTINF:-12 tvg-logo="https://tarbiyahsunnah.com/wp-content/uploads/2019/09/logo_small-1.png",TARBIYAH SUNNAH TV
 https://www.youtube.com/watch?v=mFb449EFOMw
-#EXTINF:-13 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png",SURAU TV
+#EXTINF:-13 tvg-logo="https://surautv.id/wp-content/uploads/2020/01/logosurautvvalid.png",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
-#EXTINF:-14 tvg-logo="http://",ASHIIL TV
+#EXTINF:-14 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png",ASHIIL TV
 https://www.youtube.com/watch?v=-V_o-kRTAuc
 #EXTINF:-15 tvg-logo="http://",SJP TV
 https://www.youtube.com/watch?v=bHyhX6oBhc4
-#EXTINF:-16 tvg-logo="http://",RIFQAN TV
+#EXTINF:-16 tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png",RIFQAN TV
 https://www.youtube.com/watch?v=T1vWLnxS8XY
