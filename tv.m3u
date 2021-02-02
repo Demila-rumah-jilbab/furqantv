@@ -8,9 +8,9 @@ https://www.youtube.com/watch?v=VE0HeoVu_bE
 #EXTINF:-4 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sta%20tv.png",STA TV ACEH
 https://www.youtube.com/watch?v=yA1Lky4gEk8
 #EXTINF:-5 tvg-logo="https://i.pinimg.com/736x/17/ff/64/17ff64a29d2d21ddb4c6b89e4fd0613c.jpg",MAKKAH TV
-https://www.youtube.com/watch?v=ZB0iwIZaOiM
+https://www.youtube.com/embed/live_stream?channel=UCos52azQNBgW63_9uDJoPDA
 #EXTINF:-6 tvg-logo="https://www.pngfind.com/pngs/m/510-5105802_free-madina-png-free-download-madinah-logo-transparent.png",MADINAH TV
-https://www.youtube.com/watch?v=zBkm_sWf1F0
+https://www.youtube.com/embed/live_stream?channel=UCROKYPep-UuODNwyipe6JMw
 #EXTINF:-7 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",FATWA TV
 https://www.youtube.com/watch?v=8f_wL4pc03M
 #EXTINF:-8 tvg-logo="https://gazwah.com/uploads/configurations/1605066756.png",GAZWAH TV
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=mFb449EFOMw
 #EXTINF:-13 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/surau%20tv.png",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
 #EXTINF:-14 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png",ASHIIL TV
-https://www.youtube.com/watch?v=Wq__ZoL_2Lg
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
 #EXTINF:-15 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
 https://www.youtube.com/watch?v=SHVL-671DQc
 #EXTINF:-16 tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png",RIFQAN TV
