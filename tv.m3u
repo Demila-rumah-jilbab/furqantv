@@ -7,29 +7,29 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 https://www.youtube.com/watch?v=-XZ2PYlDhYc
 #EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",STA TV ACEH
 https://www.youtube.com/watch?v=6rWukkZbt6Y
-#EXTINF:-5 tvg-logo="http://live.artvisi.or.id/logo/makkah.png",MAKKAH TV
+#EXTINF:-5 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/blob/main/0EE5B66B-10B0-4B23-A61A-8CD0CE12D546.jpeg",MEDS TV Aceh
+https://www.youtube.com/watch?v=GIWPyORg0qQ
+#EXTINF:-6 tvg-logo="http://live.artvisi.or.id/logo/makkah.png",MAKKAH TV
 https://www.youtube.com/watch?v=ZB0iwIZaOiM
-#EXTINF:-6 tvg-logo="http://live.artvisi.or.id/logo/medina.png",MADINAH TV
+#EXTINF:-7 tvg-logo="http://live.artvisi.or.id/logo/medina.png",MADINAH TV
 https://www.youtube.com/watch?v=zBkm_sWf1F0
-#EXTINF:-7 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",FATWA TV
-https://www.youtube.com/watch?v=vwym_kSdYe8
-#EXTINF:-8 tvg-logo="https://gazwah.com/uploads/configurations/1605066756.png",GAZWAH TV
-https://www.youtube.com/watch?v=pqSth7CdzmI
-#EXTINF:-9 tvg-logo="http://live.artvisi.or.id/logo/ahsan.png",AHSAN TV
-https://www.youtube.com/watch?v=4I8ji4p8EI0
-#EXTINF:-10, tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:-11, tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al Iman TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
-#EXTINF:-12 tvg-logo="http://live.artvisi.or.id/logo/tarbiyahsunnah.png",TARBIYAH SUNNAH TV
+#EXTINF:-8 tvg-logo="http://live.artvisi.or.id/logo/tarbiyahsunnah.png",TARBIYAH SUNNAH TV
 https://www.youtube.com/watch?v=mFb449EFOMw
-#EXTINF:-13 tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTINF:-9 tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
-#EXTINF:-14 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png",ASHIIL TV
+#EXTINF:-10 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png",ASHIIL TV
 https://www.youtube.com/watch?v=wONUJips08c
-#EXTINF:-15 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
-https://www.youtube.com/watch?v=SHVL-671DQc
-#EXTINF:-16 tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png",RIFQAN TV
+#EXTINF:-11 tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png",RIFQAN TV
 https://www.youtube.com/watch?v=wGqU7fBFLQs
-#EXTINF:-16 tvg-logo="http://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
-http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+#EXTINF:-12 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al Iman TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
+#EXTINF:-13 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",FATWA TV
+https://www.youtube.com/watch?v=vwym_kSdYe8
+#EXTINF:-14 tvg-logo="https://gazwah.com/uploads/configurations/1605066756.png",GAZWAH TV
+https://www.youtube.com/watch?v=pqSth7CdzmI
+#EXTINF:-15 tvg-logo="http://live.artvisi.or.id/logo/ahsan.png",AHSAN TV
+https://www.youtube.com/watch?v=4I8ji4p8EI0
+#EXTINF:-16 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
+https://www.youtube.com/watch?v=SHVL-671DQc
+#EXTINF:-17 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
