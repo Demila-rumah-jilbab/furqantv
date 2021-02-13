@@ -33,29 +33,3 @@ https://www.youtube.com/watch?v=CVcJBMMci1o
 https://www.youtube.com/watch?v=d8n4ZE7xlow
 #EXTINF:-17 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-
-#EXTINF:-18 group-title="Religi" tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-19 group-title="Religi" tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png",Ahsan TV 1
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-20 group-title="Religi" tvg-logo="https://i.imgur.com/3bug9dU.png",Iqraa TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-#EXTINF:-21 group-title="Religi" tvg-logo="https://i.imgur.com/zmVCXIK.png",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-22 group-title="Religi"tvg-logo="https://i.imgur.com/KUh6Cgp.jpg?1",MAKKAH 1
-http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
-#EXTINF:-23 group-title="Religi" tvg-logo="https://i.imgur.com/KUh6Cgp.jpg?1",MAKKAH 2
-http://rr2.dens.tv/s/s28/01.m3u8
-
-#EXTINF:-24 group-title="Religi" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-25 group-title="Religi" tvg-logo="http://www.tvislamonline.com/images/logo/medina.png",MADINAH 1
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-26 group-title="Religi" tvg-logo="http://www.tvislamonline.com/images/logo/medina.png",MADINAH 2
-https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
-#EXTINF:-27 group-title="Religi" tvg-logo="http://www.tvislamonline.com/images/logo/medina.png",MADINAH 3
-https://robi.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
-
-#EXTINF:-28 group-title="Religi" tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg",LIVE MAKKAH
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
