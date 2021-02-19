@@ -41,5 +41,4 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-21 tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-#EXTINF:-22 tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w84848493.m3u8
+
