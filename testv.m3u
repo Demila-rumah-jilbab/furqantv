@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",STA TV ACEH
 https://www.youtube.com/embed/live_stream?channel=UC59v9Opk9x1KHQ5J4-5QWKw
-#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",IZZAH TV
+#EXTINF:-4 tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
-#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",MUADZ TV 
+#EXTINF:-4 tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
-#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",SALAM TV
+#EXTINF:-4 tvg-logo="https://live.artvisi.or.id/logo/salamtv.png",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 
-#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",WESAL TV
+#EXTINF:-4 tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w84848493.m3u8
