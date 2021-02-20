@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=zBkm_sWf1F0
 #EXTINF:-6 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/tarbiyahsunnah.png",TARBIYAH SUNNAH TV
 https://www.youtube.com/watch?v=mFb449EFOMw
 #EXTINF:-7 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png",RIFQAN TV
-https://www.youtube.com/watch?v=KA4StSzPAvc
+https://www.youtube.com/watch?v=R7iOI2hoGbM
 #EXTINF:-8 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png",FATWA TV
 https://www.youtube.com/watch?v=Yh2earY1h28
 #EXTINF:-9 group-title="1. TV SUNNAH" tvg-logo="https://gazwah.com/uploads/configurations/1605066756.png",GAZWAH TV
@@ -39,10 +39,10 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-20 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-#EXTINF:-21 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",Fikih Muamalah-13
-https://www.youtube.com/watch?v=r9MOBlvhpyU
-#EXTINF:-22 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",Fikih Muamalah Muslimah
-https://www.youtube.com/watch?v=WaQBd9SidDY
+#EXTINF:-21 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",Kitab Ar-Riqaq Shahih Bukhari
+https://www.youtube.com/watch?v=lgTWxvMGRH0
+#EXTINF:-22 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",Bulan Rajab
+https://www.youtube.com/watch?v=vMZDFeeoz-s
 #EXTINF:-23 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Belajar pada Ulama yang Benar
 https://www.youtube.com/watch?v=LZR59RCXHLw
 #EXTINF:-24 group-title="2. Kajian Terbaru" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Metode Mendidik Anak
