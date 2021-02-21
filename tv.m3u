@@ -48,7 +48,7 @@ https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 https://www.youtube.com/c/DzulqarnainMS/live
 #EXTINF:-31 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDIA SUNNAH ACEH
 https://www.youtube.com/c/MediaSunnahAceh/videos
-#EXTINF:-32 group-title="2. CHANEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+#EXTINF:-32 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
 #EXTINF:-33 group-title="2. CHANNEL DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
 https://www.youtube.com/c/ErjeTv/live
@@ -73,11 +73,11 @@ https://www.youtube.com/c/YufidKids/videos
 #EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFIDS TV
 https://www.youtube.com/c/yufid/videos
 
-#EXTINF:-42 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lewat Kubur Tetap Baca Doa Ziarah
+#EXTINF:-43 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lewat Kubur Tetap Baca Doa Ziarah
 https://www.youtube.com/watch?v=M6lYZa5XzEM
-#EXTINF:-42 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Memanjangkan Rambut Merupakan Sunnah
+#EXTINF:-44 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Memanjangkan Rambut Merupakan Sunnah
 https://www.youtube.com/watch?v=M6lYZa5XzEM
-#EXTINF:-42 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Wafat di Hari Jum'at Apakah Husnul Khotimah
+#EXTINF:-45 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Wafat di Hari Jum'at Apakah Husnul Khotimah
 https://www.youtube.com/watch?v=f7KS2kRY0e8&t=2s
 
 
