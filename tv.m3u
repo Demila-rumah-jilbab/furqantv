@@ -44,31 +44,34 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 
 
-#EXTINF:-30 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",DZULQARNAIN MS
+#EXTINF:-30 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",DZULQARNAIN MS
 https://www.youtube.com/c/DzulqarnainMS/live
-#EXTINF:-31 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDIA SUNNAH ACEH
-https://www.youtube.com/c/MediaSunnahAceh/live
-#EXTINF:-32 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+#EXTINF:-31 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDIA SUNNAH ACEH
+https://www.youtube.com/c/MediaSunnahAceh/videos
+#EXTINF:-32 group-title="2. CHANEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
-#EXTINF:-33 group-title="2. LIVE STREAMING" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
+#EXTINF:-33 group-title="2. CHANNEL DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
 https://www.youtube.com/c/ErjeTv/live
-#EXTINF:-34 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
+#EXTINF:-34 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
 https://www.youtube.com/c/sntivi/live
-#EXTINF:-35 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
+#EXTINF:-35 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
 https://www.youtube.com/c/MediaSunnahLombok/live
-#EXTINF:-36 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
+#EXTINF:-36 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
 https://www.youtube.com/c/SyafiqRizaBasalamahOfficial/live
-#EXTINF:-37 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
+#EXTINF:-37 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
 https://www.youtube.com/c/HaloUstadz/live
-#EXTINF:-38 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
+#EXTINF:-38 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
 https://www.youtube.com/c/AliMusriSemjanPutra72/live
-#EXTINF:-39 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
+#EXTINF:-39 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
 https://www.youtube.com/c/HSIAbdullahroy/live
-#EXTINF:-40 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
+#EXTINF:-40 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
 https://www.youtube.com/c/RumayshoTV/live
-#EXTINF:-41 group-title="2. LIVE STREAMING" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
+#EXTINF:-41 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
 https://www.youtube.com/c/MuhammadNuzulDzikri/live
-
+#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",YUFIDS KIDS
+https://www.youtube.com/c/YufidKids/videos
+#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFIDS TV
+https://www.youtube.com/c/yufid/videos
 
 #EXTINF:-42 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lewat Kubur Tetap Baca Doa Ziarah
 https://www.youtube.com/watch?v=M6lYZa5XzEM
