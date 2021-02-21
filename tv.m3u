@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV
-https://www.youtube.com/c/rasyaadtvofficial/live
+https://www.youtube.com/c/rasyaadtvofficial/live/index
 #EXTINF:-2 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV 24
-https://www.youtube.com/c/FirandaAndirja/live
+https://www.youtube.com/c/FirandaAndirja/live/watch?
 #EXTINF:-3 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/statv.png",STA TV ACEH
-https://www.youtube.com/c/SyiarTauhidAcehSiaranRadiodanTV/live
+https://www.youtube.com/c/SyiarTauhidAcehSiaranRadiodanTV/live/watch?v
 #EXTINF:-4 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/makkah.png",MAKKAH TV
 https://www.youtube.com/watch?v=k2gOsvK8XNM
 #EXTINF:-5 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/medina.png",MADINAH TV
@@ -55,7 +55,7 @@ https://www.youtube.com/c/ErjeTv/live
 #EXTINF:-34 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
 https://www.youtube.com/c/sntivi/live
 #EXTINF:-35 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
-https://www.youtube.com/c/MediaSunnahLombok/videos
+https://www.youtube.com/c/MediaSunnahLombok/live
 #EXTINF:-36 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
 https://www.youtube.com/c/SyafiqRizaBasalamahOfficial/live
 #EXTINF:-37 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
@@ -70,7 +70,7 @@ https://www.youtube.com/c/RumayshoTV/live
 https://www.youtube.com/c/MuhammadNuzulDzikri/live
 #EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",YUFID KIDS
 https://www.youtube.com/c/YufidKids/videos
-#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFIDS TV
+#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
 https://www.youtube.com/c/yufid/videos
 
 #EXTINF:-43 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lewat Kubur Tetap Baca Doa Ziarah
