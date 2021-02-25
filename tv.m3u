@@ -40,7 +40,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-20 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 #EXTINF:-21 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
-https://streaming.sigraduta.co.id/izzahtv.m3u8
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-22 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTINF:-23 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
