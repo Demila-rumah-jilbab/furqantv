@@ -27,6 +27,12 @@ https://www.youtube.com/c/AMCPekanbaru/live
 https://www.youtube.com/c/AhsanTVIndonesia/live
 
 
+#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN TV
+http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
+#EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
+#EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-16 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
