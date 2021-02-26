@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD youtube
 https://www.youtube.com/c/rasyaadtvofficial/live
+#EXTINF:-1 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MedSTV youtube
+https://www.youtube.com/c/MediaSunnahAceh/live
 #EXTINF:-2 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV youtube
 https://www.youtube.com/c/FirandaAndirja/live
 #EXTINF:-3 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/statv.png",STA TV youtube
@@ -25,203 +27,431 @@ https://www.youtube.com/c/MQHTV/live
 https://www.youtube.com/c/AMCPekanbaru/live
 #EXTINF:-13 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN youtube
 https://www.youtube.com/c/AhsanTVIndonesia/live
+#EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA youtube
+https://www.youtube.com/c/MenebarCahayaSunnah/live
 
 
-#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN TV
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN TV
 http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
-#EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
+#EXTINF:-101 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
-#EXTINF:-15 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
+#EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-16 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTINF:-103 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
-#EXTINF:-17 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+#EXTINF:-104 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
-#EXTINF:-18 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al Iman TV
+#EXTINF:-105 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al Iman TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
-#EXTINF:-19 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
+#EXTINF:-106 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-20 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
+#EXTINF:-107 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:-21 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
+#EXTINF:-108 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
-#EXTINF:-22 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 
+#EXTINF:-109 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
-#EXTINF:-23 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
+#EXTINF:-110 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 
 
-#EXTINF:-30 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",DZULQARNAIN MS
+#EXTINF:-200 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",DZULQARNAIN MS
 https://www.youtube.com/c/DzulqarnainMS/live
-#EXTINF:-31 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDIA SUNNAH ACEH
-https://www.youtube.com/c/MediaSunnahAceh/live
-#EXTINF:-32 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
+#EXTINF:-201 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
 https://www.youtube.com/channel/UCfnkRchtoRjlWv-Lizsz2OQ/live
-#EXTINF:-33 group-title="2. CHANNEL DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
+#EXTINF:-202 group-title="2. CHANNEL DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
 https://www.youtube.com/c/ErjeTv/live
-#EXTINF:-34 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
+#EXTINF:-203 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
 https://www.youtube.com/c/sntivi/live
-#EXTINF:-35 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
+#EXTINF:-204 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
 https://www.youtube.com/c/MediaSunnahLombok/live
-#EXTINF:-36 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
+#EXTINF:-205 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
 https://www.youtube.com/c/SyafiqRizaBasalamahOfficial/live
-#EXTINF:-37 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
+#EXTINF:-206 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
 https://www.youtube.com/c/HaloUstadz/live
-#EXTINF:-38 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
+#EXTINF:-207 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
 https://www.youtube.com/c/AliMusriSemjanPutra72/live
-#EXTINF:-39 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
+#EXTINF:-208 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
 https://www.youtube.com/c/HSIAbdullahroy/live
-#EXTINF:-40 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
+#EXTINF:-209 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
 https://www.youtube.com/c/RumayshoTV/live
-#EXTINF:-41 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
+#EXTINF:-210 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
 https://www.youtube.com/c/MuhammadNuzulDzikri/live
-#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
+#EXTINF:-211 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
 https://www.youtube.com/c/yufid/live
-#EXTINF:-42 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+#EXTINF:-212 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
 
-#EXTINF:-43 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lewat Kubur Tetap Baca Doa Ziarah
-https://www.youtube.com/watch?v=M6lYZa5XzEM
-#EXTINF:-44 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Memanjangkan Rambut Merupakan Sunnah
-https://www.youtube.com/watch?v=M6lYZa5XzEM
-#EXTINF:-45 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Wafat di Hari Jum'at Apakah Husnul Khotimah
-https://www.youtube.com/watch?v=f7KS2kRY0e8&t=2s
+#EXTINF:-300 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bertanya Hal Yang Tak Penting
+https://www.youtube.com/watch?v=V_stZmcfI7w
+#EXTINF:-301 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Jangan Nikahi 5 Tipe Wanita ini
+https://www.youtube.com/watch?v=QZHgbThicQ8
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Waktu Terbuang Karena Sosmed
+https://www.youtube.com/watch?v=-0lux2BD5_M
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Wanita Mengakhirkan Shalat Isya Hingga Tengah Malam
+https://www.youtube.com/watch?v=7dfFAlidT_I
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",adzan Bilal dan Ummi Maktum
+https://www.youtube.com/watch?v=nAv8xjaJrzM
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Mengingatkan Shalat Orang Yang Sudah Sangat Tua
+https://www.youtube.com/watch?v=4et9s4EqfHM
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tauhid Tanpa Keikhlasan
+https://www.youtube.com/watch?v=VAYLKEf9u7M
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Beramal Setelah Bersyahadat
+https://www.youtube.com/watch?v=pSeOQpesj9U
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tauhid Inti Utama Perbaikan 
+https://www.youtube.com/watch?v=Ww6S4XiO22U
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ilmu tauhid itu, Ghariizi atau Muktasab
+https://www.youtube.com/watch?v=0BSBaPwn1DE
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ketentuan Pakaian Wanita Saat Nadhor
+https://www.youtube.com/watch?v=kRNdTV764b0
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Terlewatkan Sujud Tilawah
+https://www.youtube.com/watch?v=khI4dOH3wew
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Sedekah Yang Paling Besar Pahalanya
+https://www.youtube.com/watch?v=G6JeLW9rS9s
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Berdzikir Menggunakan Dua Tangan
+https://www.youtube.com/watch?v=eICtEIkJaJc
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Cara Memukul Istri Dalam Islam
+https://www.youtube.com/watch?v=Ti9teJZT7rQ
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Berdzikir Menggunakan Tasbih
+https://www.youtube.com/watch?v=x-44DMjfJpE
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Lupa Zakat Fitrah
+https://www.youtube.com/watch?v=htKc399_oqY
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Membayar Zakat Fitrah Dengan Uang ?
+https://www.youtube.com/watch?v=59aXIjLF9Mo
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Shalat Tanpa Khusyuk
+https://www.youtube.com/watch?v=FjRoleXoZc4
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Bertalbiyah
+https://www.youtube.com/watch?v=zIOGPA8Q780
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Cara Bersyukur Atas Nikmat Allah
+https://www.youtube.com/watch?v=tAxRD8SQuwM
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ada Beberapa Kesyirikan Pada Shalawat Burdah
+https://www.youtube.com/watch?v=pRKEWPdWS5U
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Merutinkan Surat Al-Baqarah Setiap Hari
+https://www.youtube.com/watch?v=s6STsHO2PDk
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Maksud Qunut Dalam Surat Al Baqarah Ayat 238 
+https://www.youtube.com/watch?v=yKDv2ltGtWI
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Siapkan Diri Mu Untuk Hari Besar Ditampakkannya Amal
+https://www.youtube.com/watch?v=5QtEpz_Xy18
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Satu Ulama dan Seribu Ahli Ibadah
+https://www.youtube.com/watch?v=K-ucZoL1Wh8
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Saat Ini Kita Di Zaman Munculnya Imam Mahdi
+https://www.youtube.com/watch?v=zMktHdy7b7E
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Kenapa Doa Ku Tidak Dikabulkan
+https://www.youtube.com/watch?v=X6ZMMYzY8IY
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Mendidik Anak Shalat Ala Rasulullah
+https://www.youtube.com/watch?v=yjsZE9pRmTY
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Langit Akan Terbelah
+https://www.youtube.com/watch?v=ngWGTqMUj4E
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Menolak Lamaran Orang Shalih Tidak Berdosa
+https://www.youtube.com/watch?v=YcA0kLuZUDI
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Wasiat Penting Untuk Penuntut Ilmu
+https://www.youtube.com/watch?v=TcIfTwUWsGQ
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Kriteria Calon Istri Idaman
+https://www.youtube.com/watch?v=jih2532PB3Q
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Perjalanan Nyawa Seorang Mukmin Hingga Surga
+https://www.youtube.com/watch?v=csHm9jaTOt0
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Jangan Malu Katakan Aku Tidak Tahu
+https://www.youtube.com/watch?v=RMKO5iM5czU
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Shalat Dengan Duduk
+https://www.youtube.com/watch?v=YsI13DQJzMw
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Calon Suami Idaman
+https://www.youtube.com/watch?v=Nw4GPX8Gvlc
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Diantara Sebab Istiqomah
+https://www.youtube.com/watch?v=q_LvwGA1NsE
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Orang Koma Memiliki Kewajiban Puasa 
+https://www.youtube.com/watch?v=2C_3Bj68HJY
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tetap Shalat Walaupun Baju Bernajis
+https://www.youtube.com/watch?v=vB4pkbr0Co0
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Menyambut Bulan Ramadhan
+https://www.youtube.com/watch?v=iduHXU2V70A
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Masih Memiliki Hutang Puasa Saat Ramadhan Tiba
+https://www.youtube.com/watch?v=YzVh2YjWBlQ
+#EXTINF:-302 group-title="6. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Mungkin Ini Ramadhan Terakhir Mu
+https://www.youtube.com/watch?v=p6EjBDIn4d0
 
-#EXTINF:-100 group-title="4. MUSLIM KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
-https://www.youtube.com/c/SarahPlayschool/videos
-#EXTINF:-101 group-title="4. MUSLIM KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",YUFID KIDS
+
+
+
+#EXTINF:-500 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",YUFID KIDS CHANEL
 https://www.youtube.com/c/YufidKids/videos
+#EXTINF:-501 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Bangun Tidur
+https://www.youtube.com/watch?v=jwo2aihF0lA
+#EXTINF:-502 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Masuk dan Keluar Kamar Mandi
+https://www.youtube.com/watch?v=Wqjk3vfgMTs
+#EXTINF:-503 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Do'a Berbuka Puasa
+https://www.youtube.com/watch?v=Uc9oyWl_DR4
+#EXTINF:-504 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Melepas dan Memakai Pakaian
+https://www.youtube.com/watch?v=0hi7m4QSaX0
+#EXTINF:-505 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Masuk Masjid
+https://www.youtube.com/watch?v=H03MXiIn-N4
+#EXTINF:-506 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Keluar Masjid 
+https://www.youtube.com/watch?v=CFf8OVhJFzA
+#EXTINF:-507 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Doa Naik Kendaraan
+https://www.youtube.com/watch?v=Ix4ajTSf7dg
+#EXTINF:-508 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Membiasakan Kalimat Thayyibah
+https://www.youtube.com/watch?v=dA7NWgqhFEQ
+#EXTINF:-509 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Alhamdulillah Saya Punya Mata
+https://www.youtube.com/watch?v=krq-kSBn3Jw
+#EXTINF:-510 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Hewan-hewan yang Disebutkan di dalam Al-Qur'an ke-1
+https://www.youtube.com/watch?v=CvGYgOyYCF4
+#EXTINF:-511 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Hewan-hewan yang Disebutkan di dalam Al-Qur'an ke-2
+https://www.youtube.com/watch?v=uY1cL-JbYaU
+#EXTINF:-512 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Hewan-hewan yang Disebutkan di dalam Al-Qur'an ke-3
+https://www.youtube.com/watch?v=7TiMZwmubxk
+#EXTINF:-513 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Kutahu Nama Kendaraan
+https://www.youtube.com/watch?v=HFKVhII8sng
+#EXTINF:-514 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Tujuan Hidup Manusia - Merenungi Tanda Kuasa Allah
+https://www.youtube.com/watch?v=gZ8Uhxryk_w
+#EXTINF:-515 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Hujan adalah Rahmat Allah
+https://www.youtube.com/watch?v=C36_DgBX8bk
+#EXTINF:-516 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Mengenal Anggota Tubuh
+https://www.youtube.com/watch?v=TwsbC-YIzRs
+#EXTINF:-517 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Kata di Jalan Raya
+https://www.youtube.com/watch?v=teU7JQZ77ds
+#EXTINF:-518 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Kosakata eps sekolah
+https://www.youtube.com/watch?v=44TzhMoZaXI
+#EXTINF:-519 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Cara Mengenalkan Allah pada Anak
+https://www.youtube.com/watch?v=MROj3NBs7Xo&t=4s
+#EXTINF:-520 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Mengenal Nama Hewan Laut
+https://www.youtube.com/watch?v=8Dt33uYPj9Y&t=86s
+#EXTINF:-521 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Kenapa Kita Harus Sholat?
+https://www.youtube.com/watch?v=nhaTgntD5wU
+#EXTINF:-522 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Kosakata eps Rumah
+https://www.youtube.com/watch?v=tGxEKfbJPoU
+#EXTINF:-523 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Huruf Alif 
+https://www.youtube.com/watch?v=BJS7JXuKdPo
+#EXTINF:-524 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Huruf Ba
+https://www.youtube.com/watch?v=JYwfKsvIlM8
+#EXTINF:-525 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Huruf Ta
+https://www.youtube.com/watch?v=ojAq5rXYrlQ
+#EXTINF:-526 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Huruf Tsa 
+https://www.youtube.com/watch?v=wFRjUvR8s8k&t=1s
+#EXTINF:-527 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Huruf Jim, Ha, Kha
+https://www.youtube.com/watch?v=uoJg2RS6_BI
+#EXTINF:-528 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Nama-Nama Hewan Ternak 
+https://www.youtube.com/watch?v=wHhh72IW8OE&t=180s
+#EXTINF:-529 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Kosakata eps Ruang Kelas
+https://www.youtube.com/watch?v=SButcp0ZE6U
+#EXTINF:-530 group-title="4. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Mengenal Warna untuk Anak
+https://www.youtube.com/watch?v=XVwrVHruHyE&t=1s
 
-#EXTINF:-150 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 1
+
+
+#EXTINF:-600 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-601 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",dzikir pagi petang
+https://www.youtube.com/watch?v=EGZBCR8WFvA&t=73s
+#EXTINF:-602 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Doa berlindung dari wabah penyakit
+https://www.youtube.com/watch?v=bs94bGHH-00
+#EXTINF:-603 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Rukun Islam
+https://www.youtube.com/watch?v=wto17Tw0w-w
+#EXTINF:-604 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Rukun Iman
+https://www.youtube.com/watch?v=vOIbblb6MkE
+#EXTINF:-605 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Doa masuk kamar mandi dan doa keluar kamar mandi
+https://www.youtube.com/watch?v=Pqe-kJ8W8OY&t=59s
+#EXTINF:-606 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 01
+https://www.youtube.com/watch?v=lKz1kmRCiFs&t=17s
+#EXTINF:-607 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 02
+https://www.youtube.com/watch?v=0xmB3aE9jIU&t=20s
+#EXTINF:-608 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 03
+https://www.youtube.com/watch?v=SuYfiXIHdfE&t=3s
+#EXTINF:-609 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 04
+https://www.youtube.com/watch?v=u63_sVQT9zg
+#EXTINF:-610 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 05
+https://www.youtube.com/watch?v=JVKibaBzwSA
+#EXTINF:-611 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Belajar huruf hijaiyah 06
+https://www.youtube.com/watch?v=4wLdmq4ZIX0
+#EXTINF:-612 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bahasa arab 1 sampai 10
+https://www.youtube.com/watch?v=MLWZfKGnv6s
+#EXTINF:-613 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Mengenal Kosakata 01
+https://www.youtube.com/watch?v=c-4l5mUovgU&t=28s
+#EXTINF:-614 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",kosa kata di ruang makan
+https://www.youtube.com/watch?v=NsOeVcuyWFM
+#EXTINF:-615 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",kosakata apa yang ada dalam tas
+https://www.youtube.com/watch?v=sd6ku-DdeV0
+#EXTINF:-616 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",kosakata Buah-buahan
+https://www.youtube.com/watch?v=akymZxb9J3U
+#EXTINF:-617 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",alat transportasi
+https://www.youtube.com/watch?v=QpQzxIX7DBM
+#EXTINF:-618 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",nama-nama warna
+https://www.youtube.com/watch?v=bihg_5B3WV8
+#EXTINF:-619 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bagian wajah
+https://www.youtube.com/watch?v=XqQH9S20BCE
+#EXTINF:-620 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bagian kepala
+https://www.youtube.com/watch?v=B_ajsbBFWkM
+#EXTINF:-621 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bagian badan
+https://www.youtube.com/watch?v=xcUnEBYHuaU
+#EXTINF:-622 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bagian tangan
+https://www.youtube.com/watch?v=73t11PZPXlY
+#EXTINF:-623 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",bagian kaki
+https://www.youtube.com/watch?v=sr406dJTmTw
+#EXTINF:-624 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-625 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-626 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-627 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-628 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-629 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-630 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-631 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-632 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-633 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-634 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-635 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-636 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-637 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-638 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+#EXTINF:-639 group-title="5. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
+https://www.youtube.com/c/SarahPlayschool/videos
+
+
+
+
+
+#EXTINF:-700 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 1
 https://www.youtube.com/watch?v=J6Fzzcs7gxo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=1&t=3s
-#EXTINF:-151 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 2
+#EXTINF:-701 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 2
 https://www.youtube.com/watch?v=4qsVp72Obyo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=2
-#EXTINF:-152 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 3
+#EXTINF:-702 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 3
 https://www.youtube.com/watch?v=7o1RLMMduOo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=3
-#EXTINF:-153 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 4
+#EXTINF:-703 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 4
 https://www.youtube.com/watch?v=SlfUgU-ojQs&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=4
-#EXTINF:-154 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 5
+#EXTINF:-704 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 5
 https://www.youtube.com/watch?v=_nY7civwdeE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=5
-#EXTINF:-155 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 6
+#EXTINF:-705 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 6
 https://www.youtube.com/watch?v=riwGb8wuslg&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=6
-#EXTINF:-156 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 7
+#EXTINF:-706 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 7
 https://www.youtube.com/watch?v=3P7XpbqNYWE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=7
-#EXTINF:-157 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 8
+#EXTINF:-707 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 8
 https://www.youtube.com/watch?v=V2N3y-VDY8w&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=8
-#EXTINF:-158 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 9
+#EXTINF:-708 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 9
 https://www.youtube.com/watch?v=BbsV61VM684&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=9
-#EXTINF:-159 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 10
+#EXTINF:-709 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 10
 https://www.youtube.com/watch?v=WOm8PHmv4TM&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=10
-#EXTINF:-160 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 11
+#EXTINF:-710 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 11
 https://www.youtube.com/watch?v=gjptAVhChog&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=11
-#EXTINF:-161 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 12
+#EXTINF:-711 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 12
 https://www.youtube.com/watch?v=BsP1swKam_I&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=12
-#EXTINF:-162 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 13
+#EXTINF:-712 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 13
 https://www.youtube.com/watch?v=dZ_uyXCIbIo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=13
-#EXTINF:-163 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 14
+#EXTINF:-713 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 14
 https://www.youtube.com/watch?v=L0MvUI0zVrQ&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=14
-#EXTINF:-164 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 15
+#EXTINF:-714 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 15
 https://www.youtube.com/watch?v=lpvsYWgEOVA&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=15
-#EXTINF:-165 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 16
+#EXTINF:-715 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 16
 https://www.youtube.com/watch?v=FLm8ClV6exA&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=16
-#EXTINF:-166 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 17
+#EXTINF:-716 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 17
 https://www.youtube.com/watch?v=v-HLlC7UUMs&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=17
-#EXTINF:-167 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 18
+#EXTINF:-717 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 18
 https://www.youtube.com/watch?v=Xm1b2IpcWr0&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=18&t=1s
-#EXTINF:-168 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 19
+#EXTINF:-718 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 19
 https://www.youtube.com/watch?v=dS29Q49XzpY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=19&t=2336s
-#EXTINF:-169 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 20
+#EXTINF:-719 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 20
 https://www.youtube.com/watch?v=dqJnrqh1i9g&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=20&t=1s
-#EXTINF:-170 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 21
+#EXTINF:-720 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 21
 https://www.youtube.com/watch?v=ZcDF63yw8CY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=21&t=2s
-#EXTINF:-171 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 22
+#EXTINF:-721 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 22
 https://www.youtube.com/watch?v=SPaXY_sJW9M&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=22
-#EXTINF:-172 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 23
+#EXTINF:-722 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 23
 https://www.youtube.com/watch?v=Ny4neae9518&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=23&t=1s
-#EXTINF:-173 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 24
+#EXTINF:-723 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 24
 https://www.youtube.com/watch?v=KwVMkPpdcWY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=24
-#EXTINF:-174 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 25
+#EXTINF:-724 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 25
 https://www.youtube.com/watch?v=_IklnSzZRzQ&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=25&t=1s
-#EXTINF:-175 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 26
+#EXTINF:-725 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 26
 https://www.youtube.com/watch?v=0uGPRdnFc5k&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=26&t=5s
-#EXTINF:-176 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 27
+#EXTINF:-726 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 27
 https://www.youtube.com/watch?v=xnwGjv03lMk&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=27&t=1s
-#EXTINF:-177 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 28
+#EXTINF:-727 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 28
 https://www.youtube.com/watch?v=AxXg5wQfGvE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=28
-#EXTINF:-178 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 29
+#EXTINF:-728 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 29
 https://www.youtube.com/watch?v=OsFDY9HnhII&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=29&t=1s
-#EXTINF:-179 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 30
+#EXTINF:-729 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 30
 https://www.youtube.com/watch?v=jYFWDgwlhMM&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=30&t=1s
-#EXTINF:-180 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 31
+#EXTINF:-730 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 31
 https://www.youtube.com/watch?v=Vb2XSZ-__cc&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=31&t=2s
-#EXTINF:-181 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 32
+#EXTINF:-731 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 32
 https://www.youtube.com/watch?v=j11KxbD98CY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=32&t=1s
-#EXTINF:-182 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 33
+#EXTINF:-732 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 33
 https://www.youtube.com/watch?v=n2kN-sorMCU&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=33&t=1s
-#EXTINF:-183 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 34
+#EXTINF:-733 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 34
 https://www.youtube.com/watch?v=tr7FtMXi3sw&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=34&t=2s
-#EXTINF:-184 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 35
+#EXTINF:-734 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 35
 https://www.youtube.com/watch?v=6Xb3yshnvr4&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=35&t=1s
-#EXTINF:-185 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 36
+#EXTINF:-735 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 36
 https://www.youtube.com/watch?v=7rXkxBQcYDk&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=36&t=1s
-#EXTINF:-186 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 37
+#EXTINF:-736 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 37
 https://www.youtube.com/watch?v=VnKF2zqeUhE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=37
-#EXTINF:-187 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 38
+#EXTINF:-737 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 38
 https://www.youtube.com/watch?v=2Asm8MUnaRc&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=38&t=9s
-#EXTINF:-188 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 39
+#EXTINF:-738 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 39
 https://www.youtube.com/watch?v=o3ELVKlGjFE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=39&t=1s
-#EXTINF:-189 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 40
+#EXTINF:-739 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 40
 https://www.youtube.com/watch?v=wV-RNfXX2HI&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=40
-#EXTINF:-190 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 41
+#EXTINF:-740 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 41
 https://www.youtube.com/watch?v=LQ5ALSqOcPY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=41&t=1s
-#EXTINF:-191 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 42
+#EXTINF:-741 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 42
 https://www.youtube.com/watch?v=TK9ETeGyOGQ&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=42
-#EXTINF:-192 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 43
+#EXTINF:-742 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 43
 https://www.youtube.com/watch?v=Y4w2OxPbohQ&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=43
-#EXTINF:-193 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 44
+#EXTINF:-743 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 44
 https://www.youtube.com/watch?v=hYhtivyi2_o&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=44
-#EXTINF:-194 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 45
+#EXTINF:-744 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 45
 https://www.youtube.com/watch?v=T3c6WBkLW28&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=45&t=16s
-#EXTINF:-195 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 46
+#EXTINF:-745 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 46
 https://www.youtube.com/watch?v=QnC4Bfk5KH8&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=46
-#EXTINF:-196 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 47
+#EXTINF:-746 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 47
 https://www.youtube.com/watch?v=Gw_7zC-OFKg&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=47&t=4s
-#EXTINF:-197 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 48
+#EXTINF:-747 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 48
 https://www.youtube.com/watch?v=YEtK54fKqKY&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=48&t=1s
-#EXTINF:-198 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 49
+#EXTINF:-748 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 49
 https://www.youtube.com/watch?v=1DsNkMwAx38&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=49&t=1s
-#EXTINF:-199 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 50
+#EXTINF:-749 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 50
 https://www.youtube.com/watch?v=V2os3uWvu_Y&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=50&t=5s
-#EXTINF:-200 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 51
+#EXTINF:-750 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 51
 https://www.youtube.com/watch?v=fQayBgkLs7Y&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=51
-#EXTINF:-201 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 52
+#EXTINF:-751 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 52
 https://www.youtube.com/watch?v=g00S4_mHr3I&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=52
-#EXTINF:-202 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 53
+#EXTINF:-752 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 53
 https://www.youtube.com/watch?v=u3-9ytcQQ_c&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=53&t=2s
-#EXTINF:-203 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 54
+#EXTINF:-753 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 54
 https://www.youtube.com/watch?v=t4DNanVXwRI&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=54&t=2s
-#EXTINF:-204 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 55
+#EXTINF:-754 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 55
 https://www.youtube.com/watch?v=M3JcZg0lcPU&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=55&t=82s
-#EXTINF:-205 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 56
+#EXTINF:-755 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 56
 https://www.youtube.com/watch?v=PYZrlQSJszk&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=56
-#EXTINF:-206 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 57
+#EXTINF:-756 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 57
 https://www.youtube.com/watch?v=RUFvKPvT_yI&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=57&t=74s
-#EXTINF:-207 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 58
+#EXTINF:-757 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 58
 https://www.youtube.com/watch?v=-eUKnfMyRL0&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=58&t=13s
-#EXTINF:-208 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 59
+#EXTINF:-758 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 59
 https://www.youtube.com/watch?v=Y7BsEvsEnc4&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=59&t=7s
-#EXTINF:-209 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 60
+#EXTINF:-759 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 60
 https://www.youtube.com/watch?v=l9UoqQEh2g4&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=60
-#EXTINF:-210 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 61
+#EXTINF:-760 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 61
 https://www.youtube.com/watch?v=Xx86Xx_U9pA&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=61&t=21s
-#EXTINF:-211 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 62
+#EXTINF:-761 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 62
 https://www.youtube.com/watch?v=EHXPmg0cWyc&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=62&t=1s
-#EXTINF:-212 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 63
+#EXTINF:-762 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 63
 https://www.youtube.com/watch?v=jm_6cdORK-I&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=63&t=4s
-#EXTINF:-213 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 64
+#EXTINF:-763 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 64
 https://www.youtube.com/watch?v=mQEUsqx4AK8&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=64
-#EXTINF:-214 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 65
+#EXTINF:-764 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 65
 https://www.youtube.com/watch?v=HJyuZSMRaJE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=68
-#EXTINF:-215 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 66
+#EXTINF:-765 group-title="5. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 66
 https://www.youtube.com/watch?v=YQaO2_LDEPc&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=69
