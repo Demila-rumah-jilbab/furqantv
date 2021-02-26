@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD youtube
 https://www.youtube.com/c/rasyaadtvofficial/live
-#EXTINF:-1 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MedSTV youtube
+#EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MedSTV youtube
 https://www.youtube.com/c/MediaSunnahAceh/live
 #EXTINF:-2 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV youtube
 https://www.youtube.com/c/FirandaAndirja/live
@@ -57,29 +57,29 @@ https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 
 #EXTINF:-200 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",DZULQARNAIN MS
 https://www.youtube.com/c/DzulqarnainMS/live
-#EXTINF:-201 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
+#EXTINF:-201 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
 https://www.youtube.com/channel/UCfnkRchtoRjlWv-Lizsz2OQ/live
-#EXTINF:-202 group-title="2. CHANNEL DAKWAH" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
+#EXTINF:-202 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
 https://www.youtube.com/c/ErjeTv/live
-#EXTINF:-203 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
+#EXTINF:-203 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SNTV.jpg",SNTV
 https://www.youtube.com/c/sntivi/live
-#EXTINF:-204 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
+#EXTINF:-204 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MEDIA%20SUNNAH%20LOMBOK.jpg",MEDIA SUNNAH LOMBOK
 https://www.youtube.com/c/MediaSunnahLombok/live
-#EXTINF:-205 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
+#EXTINF:-205 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SYAFIQ RIZA BASALAMAH Official
 https://www.youtube.com/c/SyafiqRizaBasalamahOfficial/live
-#EXTINF:-206 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
+#EXTINF:-206 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Halo%20Ustadz.png",HALO USTADZ
 https://www.youtube.com/c/HaloUstadz/live
-#EXTINF:-207 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
+#EXTINF:-207 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Ali%20Musri%20Semjan%20Putra.png",ALI MUSRI SEMJAN PUTRA
 https://www.youtube.com/c/AliMusriSemjanPutra72/live
-#EXTINF:-208 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
+#EXTINF:-208 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HSI%20Abdullahroy.png",HSI Abdullahroy
 https://www.youtube.com/c/HSIAbdullahroy/live
-#EXTINF:-209 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
+#EXTINF:-209 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Rumaysho%20TV.png",Rumaysho TV
 https://www.youtube.com/c/RumayshoTV/live
-#EXTINF:-210 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
+#EXTINF:-210 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/Muhammad%20Nuzul%20Dzikri.png",Muhammad Nuzul Dzikri
 https://www.youtube.com/c/MuhammadNuzulDzikri/live
-#EXTINF:-211 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
+#EXTINF:-211 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
 https://www.youtube.com/c/yufid/live
-#EXTINF:-212 group-title="2. CHANNEL DAKWAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+#EXTINF:-212 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
 
