@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",STA TV ACEH
-https://www.youtube.com/embed/live_stream?channel=UC59v9Opk9x1KHQ5J4-5QWKw
+#EXTINF:-4 tvg-logo="http://live.artvisi.or.id/logo/statv.png",rodja
+https://cdn13jtedge.useetv.com/joss/14/rodjatv/chunklist_w839872627_b684100_sleng.m3u8
 #EXTINF:-4 tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
