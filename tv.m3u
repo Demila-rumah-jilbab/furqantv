@@ -36,8 +36,8 @@ https://www.youtube.com/c/AhsanTVIndonesia/live
 
 
 #EXTINF:-99 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1
-https://tv.rodja.live/live/smil:rodjatv.smil/playlist.m3u8
-#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
+https://tv.rodja.live/live/smil:rodjatv.smil/chunklist_w597203509_b1564000.m3u8
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-101 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN TV
 http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
