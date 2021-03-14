@@ -39,9 +39,9 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-101 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN TV
 http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8?checkedby:iptvcat.com
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:-103 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
 #EXTINF:-104 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
