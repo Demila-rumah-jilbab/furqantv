@@ -38,6 +38,8 @@ https://www.youtube.com/c/AmmarTV/live
 
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV2
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH
@@ -58,8 +60,8 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTINF:-110 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-
-
+ 
+ 
 #EXTINF:-201 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
 https://www.youtube.com/channel/UCfnkRchtoRjlWv-Lizsz2OQ/live
 #EXTINF:-202 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
@@ -1086,6 +1088,175 @@ https://www.youtube.com/watch?v=pYLe7Ee6G0Y
 https://www.youtube.com/watch?v=xron3UvHBeA
 #EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Berpartai Politik?
 https://www.youtube.com/watch?v=W6_5uEFORHw
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Peramal Tetap Dianggap Thaghut
+https://www.youtube.com/watch?v=LRlIxetgS0E
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Arsy adalah Makhluk, Jangan Ragu!
+https://www.youtube.com/watch?v=e6A2rPndnhw
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Berpegang dengan Perkiraan Cuaca adalah Kesyirikan?
+https://www.youtube.com/watch?v=bKcOoP2dMe8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Firasat atau Waswas?
+https://www.youtube.com/watch?v=yL1tMoIDBn4
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hasil Tambak Kena Zakat Apa?
+https://www.youtube.com/watch?v=uAtnEFCYpCk
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bermimpi Melihat Nabi
+https://www.youtube.com/watch?v=Su1MZmS1OOc
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Berdoa dengan Perantara Orang Shalih
+https://www.youtube.com/watch?v=1LbhUXH6qrI
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tentang Lembaga Ihya`ut Turats
+https://www.youtube.com/watch?v=KyY6ViHt81s
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Dipaksa Membunuh, Apakah Termaafkan?
+https://www.youtube.com/watch?v=DGIi-7wFBoU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Memanfaatkan Hadiah yang Ditolak
+https://www.youtube.com/watch?v=14YWOcEgnZw
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Ipar dan Sepupu Bukan Mahram?
+https://www.youtube.com/watch?v=m_twPXZY1Ws
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Menasihati Kakek yang Berbuat Kesyirikan
+https://www.youtube.com/watch?v=Ysh6oUBv0oY
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Kiat Muslimah dalam Menjaga Kemuliaan Diri
+https://www.youtube.com/watch?v=HG7SmIq9m68
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Kaidah "Kerja Sama dalam Hal yang Disepakati, Berlapang Dada dalam Perselisihan"
+https://www.youtube.com/watch?v=mU0GNC9-mnE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Menasihati Keluarga yang Awam
+https://www.youtube.com/watch?v=IVmBhJr4Crs
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Mabuk Cinta kepada Perempuan, Apakah Termasuk Kesyirikan?
+https://www.youtube.com/watch?v=W6ZsaxTwogM
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Memakan Makanan Acara Bid'ah
+https://www.youtube.com/watch?v=brRV80BJD-8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Memindahkan Jenazah yang Dikubur di Halaman Rumah
+https://www.youtube.com/watch?v=VOuvYgPCzXY
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Mengaku Bisa Melihat Jin
+https://www.youtube.com/watch?v=3uglHBocXqU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Menjawab Salam Perempuan
+https://www.youtube.com/watch?v=fHmeVFo4ToM
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Semua Kaum Syiah Kafir?
+https://www.youtube.com/watch?v=KqY7oYh_j_0&t=1s
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Menuntut Ilmu dari Buku tanpa Bimbingan Guru?
+https://www.youtube.com/watch?v=dr4r_pVcDA8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Riba Tetaplah Riba, Meski 1 Rupiah
+https://www.youtube.com/watch?v=5xiM2sfvn7o
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Setiap Manusia Bisa Menjadi Wali Allah?
+https://www.youtube.com/watch?v=b1lVuUXMtwc
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Teman Berbuat Kesyirikan, Dijauhi atau Dinasihati?
+https://www.youtube.com/watch?v=dRmDHyI12uM
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tentang Siyasah Syar'iyyah
+https://www.youtube.com/watch?v=u9Lnm-H7CEE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tetangga Main Dukun, Kita Harus Bagaimana?
+https://www.youtube.com/watch?v=sISQ4V0lghc
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Anggapan Sengaja Berikhtilath dengan Bukan Mahram di Tanah Suci
+https://www.youtube.com/watch?v=etQK47jmqII
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Shalat Batal di Masjid yang Ada Kuburannya?
+https://www.youtube.com/watch?v=Sn0ySFNnHVU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tidak Memberontak dan Mencela Pemimpin, Apakah Termasuk Ketaatan?
+https://www.youtube.com/watch?v=yGy7pT0Kgoo
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tolong Menolong dengan Nonmuslim tentang Tempat Ibadahnya
+https://www.youtube.com/watch?v=c3HTMNFZjjs
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Beli Barang yang Didiskon Menyambut Hari Raya Orang Kafir
+https://www.youtube.com/watch?v=mRK3kDOObz8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bila Keislamannya Batal, Bolehkah Bertaubat?
+https://www.youtube.com/watch?v=1_xy9pItffc
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Berloyalitas kepada Ahli Bid'ah?
+https://www.youtube.com/watch?v=vqh_iSWA_pY
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Memilih Umrah Dahulu karena Kuota Haji Masih Lama?
+https://www.youtube.com/watch?v=SO-lGouRyr0
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Panggilan "Pak Rahman"?
+https://www.youtube.com/watch?v=2lWd81o8CP8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Fisik Malaikat Serupa dengan Manusia?Fisik Malaikat Serupa dengan Manusia?
+https://www.youtube.com/watch?v=Pb1-k-DxHgY
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Bekerja Sebagai PNS
+https://www.youtube.com/watch?v=breeR4x0Y6Q
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Menggunakan Bekas Alat Makan Orang Kafir
+https://www.youtube.com/watch?v=pRZ7iIIFxq4
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Ikut Merayakan Hari Raya Nonmuslim
+https://www.youtube.com/watch?v=ZQzglt6gOFw
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Ilmu yang Tidak Diamalkan, Apakah Kelak Akan Dipertanggungjawabkan?
+https://www.youtube.com/watch?v=ck3cY7Dpa7g
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Kuburan Muslim dan Nonmuslim dalam Satu Lahan, Bolehkah?
+https://www.youtube.com/watch?v=JZNMDvnRqck
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Malaikat Pakai Bahasa Arab di Alam Kubur?
+https://www.youtube.com/watch?v=L1ztxgKMZOQ
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Masuk Surga atau Neraka karena Amalan Kecil
+https://www.youtube.com/watch?v=eKSJ4MOaVSU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Mengkreditkan Barang yang Sedang Dikredit
+https://www.youtube.com/watch?v=SExP79CkWwo
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Nasihat bagi Penuntut Ilmu agar Tidak Sombong
+https://www.youtube.com/watch?v=3hpWJha_UfE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tentang Kitab Al-Luma' Karya Abu Ishaq Asy-Syiraziy
+https://www.youtube.com/watch?v=MBzNNTSScCI
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Apakah Manusia Dibangkitkan dengan Jasad atau Ruh Saja?
+https://www.youtube.com/watch?v=1Bj8py40YPE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bertaubat dari Ilmu Tenaga Dalam yang Dimiliki
+https://www.youtube.com/watch?v=_LAEg4OEVOU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bertaubat Setelah Berbuat Syirik, Amalannya Tetap Terhapus?
+https://www.youtube.com/watch?v=GgHk_YhK_bE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Adakah Hukum Karma dalam Islam?
+https://www.youtube.com/watch?v=QPjFPFM_LLs
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Adakah Lafazh Khusus Sebelum Berdoa?
+https://www.youtube.com/watch?v=2dhAnfkpQVA
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Meminjam Uang Sumbangan untuk Urusan Pribadi?
+https://www.youtube.com/watch?v=c3OdF5ZUYmg
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Bolehkah Menyepakati Pembagian Warisan Secara Merata
+https://www.youtube.com/watch?v=kvZ780mTWug
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Imam Ahmad Pernah Shalat 300 Rakaat?
+https://www.youtube.com/watch?v=ncH-fueHF18
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Menyewakan Rumah yang Dijadikan Tempat Ibadah
+https://www.youtube.com/watch?v=7iNka4UN_WA
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Orang Musyrik Bisa Menjawab Pertanyaan "Siapa Rabbmu?"
+https://www.youtube.com/watch?v=XUez7Bmd1M0
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Semangat Mendakwahi Orang Tua Tanpa Hikmah
+https://www.youtube.com/watch?v=PfWfXbvoiw0
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hakikat Aqidah Asy'ariyyah dan Maturidiyyah
+https://www.youtube.com/watch?v=eDRMaRp3GAo
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Musik dalam Islam
+https://www.youtube.com/watch?v=Srl8HB4ZPJ4
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Madzhab Membuat Seseorang Menjadi Fanatik?
+https://www.youtube.com/watch?v=3HYYXyqRJm4
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Syubhat Tauhid Hakimiyyah
+https://www.youtube.com/watch?v=OX7vhvdwN0M
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Terangnya Jalan Rasulullah Shallallahu 'Alaihi Wasallam
+https://www.youtube.com/watch?v=iKi-0cCjpmk
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Kiat Memupuk Keimanan kepada Allah dari Kecintaan kepada Rasulullah dan Para Sahabatnya
+https://www.youtube.com/watch?v=hVjn3iarLFk
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Mengamalkan Amalan yang Tiada Tuntunannya, Apakah Termasuk Kezhaliman Besar
+https://www.youtube.com/watch?v=vs__cPzeFxg
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Meminum Kencing Unta
+https://www.youtube.com/watch?v=TXCZKers5ds
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Memakan Makanan Maulid
+https://www.youtube.com/watch?v=C5V_sFMWFGM
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Syubhat bahwa Maulid adalah Demi Persatuan Umat
+https://www.youtube.com/watch?v=3TGbavMl9k8
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Amalan agar Dosa Terampuni dan Syarat-Syarat Diterimanya Taubat
+https://www.youtube.com/watch?v=gShxbhFg9ug
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Syubhat bahwa Menolak Maulid Berarti Menyelisihi Kebanyakan Manusia
+https://www.youtube.com/watch?v=8aOFsSf_-NI
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Cara Melunasi Utang dan Kisah Membayar Utang dengan Kambing
+https://www.youtube.com/watch?v=dS2Fkgc_ukg
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Syubhat Ceramah Taushiyah dalam Maulid
+https://www.youtube.com/watch?v=xNGJ9i_IUoY
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Syubhat Duduk Berdebat untuk Beradu Bantahan Ilmiah
+https://www.youtube.com/watch?v=0IkGn-CD4Kg
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Memakai Kawat Gigi
+https://www.youtube.com/watch?v=TJzfT_sTx4I
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Membunuh Hewan yang Mengganggu dan Membahayakan
+https://www.youtube.com/watch?v=m43Pq75tjUo
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Tentang Kitab Al-Barzanji dalam Maulid
+https://www.youtube.com/watch?v=0lJ10X4HfPw
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Menikah dengan Perempuan Pezina
+https://www.youtube.com/watch?v=p-XALHlFx7c
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Wejangan bagi Netizen yang Aktif di Media Sosial
+https://www.youtube.com/watch?v=vFgPise9hiU
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Perempuan yang Bepergian Tanpa Mahram
+https://www.youtube.com/watch?v=VnMAEg_wDpo
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Perempuan yang Bersafar dan Tinggal di Pondok Pesantren
+https://www.youtube.com/watch?v=cX3EUoCp-Cc
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Hukum Perempuan yang "Turun ke Jalan"
+https://www.youtube.com/c/DzulqarnainMS/videos?view=0&sort=da&flow=grid
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Nasihat Tatkala Bosan Menuntut Ilmu Agama
+https://www.youtube.com/watch?v=LPh0LEPvbFE
+#EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Adakah Dalil Tentang Tanda Tanda Kematian?
+https://www.youtube.com/watch?v=lHHEYrMszRg
+
+
+
 
 
 #EXTINF:-500 group-title="5. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",YUFID KIDS CHANEL
