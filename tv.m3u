@@ -33,8 +33,7 @@ https://www.youtube.com/c/MQHTV/live
 https://www.youtube.com/c/AMCPekanbaru/live
 #EXTINF:-13 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN youtube
 https://www.youtube.com/c/AhsanTVIndonesia/live
-#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ammar%20tv.jpg",AMMAR TV youtube
-https://www.youtube.com/c/AmmarTV/live
+
 
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
