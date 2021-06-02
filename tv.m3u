@@ -36,8 +36,6 @@ https://www.youtube.com/c/AhsanTVIndonesia/live
 
 
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
