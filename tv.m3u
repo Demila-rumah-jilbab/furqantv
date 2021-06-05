@@ -32,11 +32,17 @@ https://www.youtube.com/c/MQHTV/live
 #EXTINF:-12 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL youtube
 https://www.youtube.com/c/AMCPekanbaru/live
 #EXTINF:-13 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN youtube
-https://www.youtube.com/c/AhsanTVIndonesia/live
+https://www.youtube.com/channel/UC_WjqSN30DQzfUXVrB6RnJQ/live
+#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA youtube
+https://www.youtube.com/c/MenebarCahayaSunnah/live
+#EXTINF:-15 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
 
-#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH
@@ -47,8 +53,10 @@ http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
 #EXTINF:-105 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al Iman TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
-#EXTINF:-106 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
+#EXTINF:-106 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV 1
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-106 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV 2
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-107 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 #EXTINF:-108 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
@@ -81,8 +89,7 @@ https://www.youtube.com/c/RumayshoTV/live
 https://www.youtube.com/c/MuhammadNuzulDzikri/live
 #EXTINF:-211 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidtv.png",YUFID TV
 https://www.youtube.com/c/yufid/live
-#EXTINF:-212 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
-https://www.youtube.com/c/UstadzAmmiNurBaits/live
+
 
 
 #EXTINF:-300 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bertanya Hal Yang Tak Penting
