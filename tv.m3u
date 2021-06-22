@@ -63,6 +63,8 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTINF:-110 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-111 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/artvisi.png",ARTVISI TV
+https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTINF:-111 group-title="1. TV SUNNAH" tvg-logo="https://raw.githubusercontent.com/Demila-rumah-jilbab/furqantv/main/kiswahtv.png",KISWAH TV
 http://119.235.249.58:1935/kiswahtv/live/playlist.m3u8
  
