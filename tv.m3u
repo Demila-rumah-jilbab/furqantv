@@ -36,7 +36,8 @@ https://www.youtube.com/c/MenebarCahayaSunnah/live
 #EXTINF:-14 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
-
+#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MedSTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624646150/ei/ps3VYO2GHuul3LUP2PCZsAI/ip/36.71.143.208/id/JjA2eL0ilxg.1/source/yt_live_broadcast/requiressl/yes/tx/24047101/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTmKxr-HutV8iDpuB7Pn-xNOFgtS4LWLdyk4IqEWcCHcCIQD1rrqhBIShi438Bn0PQjYqdB-Wle4-RcrsZtQ5-ghR6w%3D%3D/file/index.m3u8
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
