@@ -33,11 +33,9 @@ https://www.youtube.com/c/MQHTV/live
 https://www.youtube.com/c/AMCPekanbaru/live
 #EXTINF:-13 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA youtube
 https://www.youtube.com/c/MenebarCahayaSunnah/live
-#EXTINF:-14 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
 https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
-#EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-102 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH 
