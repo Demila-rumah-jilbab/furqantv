@@ -7,10 +7,6 @@ https://www.youtube.com/watch?v=AYHnkYaa_Sk
 
 #EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD youtube
 https://www.youtube.com/channel/UCotIkyDFzztbSm21GNGsK9w/live
-#EXTINF:-1 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MedSTV youtube
-https://www.youtube.com/c/MediaSunnahAceh/live
-#EXTINF:-2 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV youtube
-https://www.youtube.com/c/FirandaAndirja/live
 #EXTINF:-3 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/statv.png",STA TV youtube
 https://www.youtube.com/c/SyiarTauhidAcehSiaranRadiodanTV/live
 #EXTINF:-6 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH youtube
@@ -21,12 +17,8 @@ https://www.youtube.com/c/RifqanTV/live
 https://www.youtube.com/c/FatwaTVOfficial/live
 #EXTINF:-9 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB youtube
 https://www.youtube.com/c/khalidbasalamah/live
-#EXTINF:-10 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP youtube
-https://www.youtube.com/c/SunnahJalanPasti/live
 #EXTINF:-11 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/MQHTV.jpg",MQH youtube
 https://www.youtube.com/c/MQHTV/live
-#EXTINF:-14 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
-https://www.youtube.com/c/UstadzAmmiNurBaits/live
 
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDS TV ACEH
 https://h1.intechmedia.net/intech/ch23.m3u8
@@ -89,6 +81,8 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-118 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png",RADIO KITA TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 
+#EXTINF:-200 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/anb%20chanel.jpg",ANB CHANNEL
+https://www.youtube.com/c/UstadzAmmiNurBaits/live
 #EXTINF:-201 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
 https://www.youtube.com/channel/UCfnkRchtoRjlWv-Lizsz2OQ/live
 #EXTINF:-202 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://live.artvisi.or.id/logo/erjetv.png",ERJE TV
