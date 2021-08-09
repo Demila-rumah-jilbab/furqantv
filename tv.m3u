@@ -86,8 +86,6 @@ https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-118 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png",RADIO KITA TV
 https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-119 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mhotv.png",MHO TV
-https://h1.intechmedia.net/intech/ch19.m3u8
 
 #EXTINF:-201 group-title="2. CHANNEL DAKWAH youtube" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/aceh%20tfq%20logo.jpg",Aceh Tafaqquhfiddin
 https://www.youtube.com/channel/UCfnkRchtoRjlWv-Lizsz2OQ/live
