@@ -84,8 +84,6 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF:-116 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/ibnuabbastv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-117 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/puldapiitv.png",PULDAPHIL TV
-https://h1.intechmedia.net/intech/ch15.m3u8
 #EXTINF:-118 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png",RADIO KITA TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-119 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mhotv.png",MHO TV
