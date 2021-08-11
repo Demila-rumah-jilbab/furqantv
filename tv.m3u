@@ -76,6 +76,8 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 https://h1.intechmedia.net/intech/ch102.m3u8
 #EXTINF:-115 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV 2
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-115 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio%20hidayah.png",HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8 
 #EXTINF:-116 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/ibnuabbastv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-118 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png",RADIO KITA TV
@@ -932,6 +934,215 @@ https://www.youtube.com/watch?v=MWRJZeVLYFY
 https://www.youtube.com/watch?v=HhAWWRilwEI
 #EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Saudara Laki-laki Menjadi Saksi Nikah?
 https://www.youtube.com/watch?v=Urw4ZLPVMLA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Obat Sihir
+https://www.youtube.com/watch?v=_pikhMYpVw8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Banyak Bersyukur Saat Sekarat, Husnul Khotimah?
+https://www.youtube.com/watch?v=V4zzPd40DXE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Memohonkan Ampunan Bagi Orang yang Mati Bunuh Diri 
+https://www.youtube.com/watch?v=BJn5oFyqnn0
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bisikan Setan Jangan Lakukan Ini, Nanti Kamu Riya Lho
+https://www.youtube.com/watch?v=Jv5VxGLWi1U
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Basbasah : Cara Salah Dzikir Tasbih tapi Banyak Dijumpai di Sekitar Kita
+https://www.youtube.com/watch?v=kVHmw2cPrA0
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Inilah Wanita yang Kuat
+https://www.youtube.com/watch?v=0QCwQ6TfptA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Dosa Besar : Sembrono dalam Fatwa
+https://www.youtube.com/watch?v=TdaWxiJ-N7c
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apa Maksud Shalat di Awal Waktu? 
+https://www.youtube.com/watch?v=-DKaY-iadJM
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Pengikut Mazhab Syafi'i dan 3 Lainnya Adalah Ahlus Sunah
+https://www.youtube.com/watch?v=gXewDiZQl4Q
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Mazhab Ahlus Sunah dalam Nama dan Sifat Allah 
+https://www.youtube.com/watch?v=nYlv4lsvwJs
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Nasihat Bagi Suami yang Gemar Mencela Istrinya
+https://www.youtube.com/watch?v=_nzpjvIwb30
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Dua Jenis Orang Pikun
+https://www.youtube.com/watch?v=0v1XNjoLzB8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Kode Etik Konten Dakwah di Media Sosial
+https://www.youtube.com/watch?v=ryJxYT7svWE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Melaknat Setan
+https://www.youtube.com/watch?v=c_Z_3Wabldo
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Tidak Bisa Belajar Agama Karena Sibuk Bekerja
+https://www.youtube.com/watch?v=9Yf7wz2nwwY
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Menelpon Wanita yang Sudah di Khitbah?
+https://www.youtube.com/watch?v=L8EXmmMH0qo
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Menampakkan Ketaatan dan Menyembunyikan Kemaksiatan, Apakah Saya Munafik?
+https://www.youtube.com/watch?v=4OiYILUWVUg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Sedekah dengan Niat Kesembuhan, Apakah Syirik? 
+https://www.youtube.com/watch?v=ueEwkaFGE6A
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Sabar Ketika Sakit 
+https://www.youtube.com/watch?v=1H-1qTHJX-k
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Ta'awudz Setiap Kali Menguap 
+https://www.youtube.com/watch?v=mId-lyY-_Jc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Menggabungkan Mandi Junub dan Mandi Jum'at?
+https://www.youtube.com/watch?v=3-dDEdeG6A0
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Meminta Doa Orang Shalih Sebelum Safar
+https://www.youtube.com/watch?v=utnMcr1ifzE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Salahkah Imam yang Mengeraskan Bacaan Bismillah?
+https://www.youtube.com/watch?v=pyCacY2bFck
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Iblis dan Nabi Isa juga Menikah dan Memiliki Keturunan? 
+https://www.youtube.com/watch?v=ipvMgAXiLh0
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Renungkanlah Nikmat Terbesar di Surga Ini
+https://www.youtube.com/watch?v=OKIXfIvyftk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Kenapa Setelah Makan Bawang Dilarang ke Masjid?
+https://www.youtube.com/watch?v=ZvIEDlZ3CLo
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Cara Melindungi Diri dari Perang Pemikiran 
+https://www.youtube.com/watch?v=v14BfobS0q8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Motivasi untuk Belajar Agama 
+https://www.youtube.com/watch?v=ff7APPC5ABQ
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Asal Muasal Istilah : "Wajib, Sunnah dan Makruh"
+https://www.youtube.com/watch?v=-aRZktL99ak
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Laut Asin dan Tawar Bertemu Tanpa Bercampur 
+https://www.youtube.com/watch?v=OKiZsi8eXJk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Berdoa Agar Orang Tua Mencapai Derajat Para Nabi 
+https://www.youtube.com/watch?v=br9ZI5pIIaA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Benarkah Bekerja Mencari Uang Adalah Ibadah?
+https://www.youtube.com/watch?v=6IBIDJFc5Ks
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tanya Jawab Seputar Video Rekaman Dakwah
+https://www.youtube.com/watch?v=sbie0OuPduM
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apa Kemaksiatan yang Tidak Bisa Diterima Taubatnya?
+https://www.youtube.com/watch?v=7pdsmj5oR5U
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ku Maafkan Semua Orang yang Ghibah Tentangku
+https://www.youtube.com/watch?v=28f3HhzjklA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Perkataan,Jangan Shalatkan Dia, Dia Tidak Shalat!
+https://www.youtube.com/watch?v=IJnd4iotpmI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Zakat untuk Saudara Laki-laki
+https://www.youtube.com/watch?v=0226qDh_qeI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Benarkah Membaca Surat Al-Kahfi Hari Jum'at Bukan Sunnah
+https://www.youtube.com/watch?v=DzEP2BDGdWg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Saya Mendoakan Anak Saya Agar Cepat Mati
+https://www.youtube.com/watch?v=DoevgtjSqq8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Baru Tahu Hukum Mandi Wajib Ketika 18 Tahun
+https://www.youtube.com/watch?v=aXGqks-sRcQ
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Jangan Jadi Ibu-ibu Tukang Gosip! 
+https://www.youtube.com/watch?v=U39dHxAKjqc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Amalan yang Dapat Menambah Keimanan
+https://www.youtube.com/watch?v=5A3ko80m_VA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ibu-ibu Perbanyaklah Dzikir Ini!
+https://www.youtube.com/watch?v=wI0Mepa6gf4
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Minta Sesuatu Kepada Orang yang Meninggal 
+https://www.youtube.com/watch?v=w_QnYFQgIa8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Motivasi untuk Memperbanyak Baca Al-Qur'an 
+https://www.youtube.com/watch?v=CUE16LuyU3Q
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Doa Berhubungan Badan & Bolehkah Tanpa Busana? 
+https://www.youtube.com/watch?v=jFmXl-rP_1c
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ismullah Al-A'dhom Nama Allah yang Paling Agung
+https://www.youtube.com/watch?v=q5aqVUjaWAE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Waktu Siang Sangat Panjang, Bagaimana Puasanya?
+https://www.youtube.com/watch?v=MkoBtdADh4M
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Puasa Tapi Meninggalkan Shalat, Apa Hukumnya? 
+https://www.youtube.com/watch?v=P_-TdW3PhGk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Shalat Ketika Tiba Makanan & Ada Hajat 
+https://www.youtube.com/watch?v=z_H-AUXMCwE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Tahiyat Masjid tapi Waktu Tidak Cukup 
+https://www.youtube.com/watch?v=df43EA3JGls
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bagaimana Cara Wahyu Turun
+https://www.youtube.com/watch?v=GAKQCoVoSg4
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Keutamaan Membaca Al-Kahfi pada Malam Jum'at Sama dengan Siangnya
+https://www.youtube.com/watch?v=AdfoiVAcoao
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ingatlah 7 Hal Ini Ketika Musibah Menimpa
+https://www.youtube.com/watch?v=24k4aWysm5E
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Was-was Setan Ketika Seseorang Akan Belajar Ilmu Syar'i 
+https://www.youtube.com/watch?v=kg11D3wPXyc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Berdoa Sebelum dan Sesudah Salam
+https://www.youtube.com/watch?v=f6Maf1waSs4
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Sembelihan Non Muslim Amerika dan Menikahi Mereka
+https://www.youtube.com/watch?v=40czayMMsMI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tidak Bayar Zakat Selama 2 Tahun Apa Solusinya?
+https://www.youtube.com/watch?v=qUta6dbtp0Y
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ragu dengan Ketepatan Jadwal Shalat 
+https://www.youtube.com/watch?v=g_JTNZ2GB2M
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Nasyid Islami 
+https://www.youtube.com/watch?v=OEjJb5Lc8QI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apa Amalan Penghapus Dosa Besar?
+https://www.youtube.com/watch?v=Ohq7D-r_yXk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Mendoakan Pemerintah saat Khutnah Jum'at
+https://www.youtube.com/watch?v=X7VKmKaroZI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Nasihat untuk Istiqomah di Atas Jalan yang Lurus 
+https://www.youtube.com/watch?v=fT4IUerai38
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Anda akan Berusaha Mengamalkan Dzikir Ini Setelah Mengetahui Fadhilahnya
+https://www.youtube.com/watch?v=RL_z_kUcZ24
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Wahai Para Istri Berdandanlah untuk Suami 
+https://www.youtube.com/watch?v=Fu2IA0LbOQ0
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Dunia Tidak Akan Sempit Bagi Orang yang Bertakwa
+https://www.youtube.com/watch?v=Ge0StJS2N7k
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Kalimat Almarhum
+https://www.youtube.com/watch?v=kJ8kKfos8fg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Adab Memandang Orang Tua
+https://www.youtube.com/watch?v=UiMLdoXnYs4
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bahaya Belajar Kitab Tanpa Ulama
+https://www.youtube.com/watch?v=zKQItN0cffg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Usai Bertaubat Kembali Jatuh di Lubang yang Sama 
+https://www.youtube.com/watch?v=VHMTd_FCjGg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Amal-amal Besar di 10 Hari Awal Dzulhijjah
+https://www.youtube.com/watch?v=hROQHfliHDc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ucapkan Doa Ini Ketika Engkau Bingung Harus Meminta Apa
+https://www.youtube.com/watch?v=BDi7-xnJvmA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Cara Memanjatkan Doa Mustajab Setelah Adzan
+https://www.youtube.com/watch?v=5g8qdZEf7RM
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Menunda Pembagian Warisan
+https://www.youtube.com/watch?v=Pt3unqj0_cY
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Tafsir Jalalain dan Kitab Tafsir Bagus Lainnya
+https://www.youtube.com/watch?v=lsdVFCsPlFc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hadits Tentang Ancaman Dosa Ghibah
+https://www.youtube.com/watch?v=38s-tgVBPPI
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Perbedaan Antara Baiat dan Taat
+https://www.youtube.com/watch?v=5IHWIECoHWg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Agar Nikmat Allah Terlihat Sangat Besar
+https://www.youtube.com/watch?v=X2-NPUM2TPs
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ucapkan Doa ini di Pagi, Sore, dan Sebelum Tidur
+https://www.youtube.com/watch?v=jXiXyohpUuE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Doa Tak Tertolak : Khusyu' Ketika Berdoa
+https://www.youtube.com/watch?v=xcF_Wv_AN-g
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Shalat Ashar dengan Wudhu Shalat Dhuhur
+https://www.youtube.com/watch?v=y-AUenvePRM
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Inilah 3 Nasib Orang Muslim Pelaku Maksiat di Neraka
+https://www.youtube.com/watch?v=W2rMAeWBYPc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Menampakkan Nikmat Adalah Tanda Syukur Seorang Hamba
+https://www.youtube.com/watch?v=3cO--KblT_Q
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apa Maksud Kufur di Bawah Kufur? 
+https://www.youtube.com/watch?v=iFPfGWCaGGk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Mengidolai Messi, Ronaldo, Barcelona, dan Real Madrid
+https://www.youtube.com/watch?v=MIX-DvHCiAc
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Ibadah Yang Agung : Meninggalkan Dosa Ketika Sendiri 
+https://www.youtube.com/watch?v=yhKJ2P9M04E
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Umrah Dengan Harta Riba
+https://www.youtube.com/watch?v=qoFdgcyNOyM
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Perbedaan Nilai Amal Pada 10 Hari Awal Dzulhijjah dan 10 Hari Akhir Ramadhan
+https://www.youtube.com/watch?v=ticKlqK44A8
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Alasan Imam Ahmad Tidak Mengkafirkan Pemerintahnya
+https://www.youtube.com/watch?v=n21uraHwGVE
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Sutrah Ketika Shalat 
+https://www.youtube.com/watch?v=AlDxgJiwRQk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Syarah Terbaik Kitab Umdatul Ahkam dan Zadul Mustaqni'
+https://www.youtube.com/watch?v=Pnmm1cWX59Q
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Melarang Anak dari Menikahi Wanita Tak Berhijab?
+https://www.youtube.com/watch?v=29jLSX6a8Ws
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Sebab Kegalauan dan Obatnya
+https://www.youtube.com/watch?v=xJIdIY6pAPo
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Al-Quran Memotivasi Kita untuk Bekerja
+https://www.youtube.com/watch?v=5m85UJsjYhY
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Orang Meninggal Saling Bertemu di Alam Kubur?
+https://www.youtube.com/watch?v=DS0EJ43egYY
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Cara Lengkap Bertaubat dari Berbagai Dosa Zina, Ghibah, Mencuri, dll
+https://www.youtube.com/watch?v=HqddkaqOK1A
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Nikmat Berkumpul dengan Keluarga di Surga
+https://www.youtube.com/watch?v=HAs_kv_X8eU
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apa Amalan yang Dapat Menahan Diri dari Maksiat?
+https://www.youtube.com/watch?v=OTHKZonoUlo
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Solusi Bagi yang Ingat Junub di Tengah Shalat
+https://www.youtube.com/watch?v=ivI20j-5GIQ
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Apakah Tidak Bersedekap Ketika Shalat Adalah Bid'ah? 
+https://www.youtube.com/watch?v=I_CEbvju3vg
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Kakak-kakak ku Sibuk dan Kurang Berbakti bagaimana Hukumnya?
+https://www.youtube.com/watch?v=G1727_4nhDA
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Shalat Ba'diyyah Jum'at 6 Rakaat
+https://www.youtube.com/watch?v=-aPRigQ5mhk
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bolehkah Merubah Niat Sedekah Menjadi Zakat?
+https://www.youtube.com/watch?v=db9E6lKaVxs
+#EXTINF:-302 group-title="3. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Hukum Menarik Barang Pemberian dengan Membelinya 
+https://www.youtube.com/watch?v=ay7C6me7KC0
+
 
 
 #EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Alat Bantu Pernafasan Membatalkan Puasa?
@@ -1529,8 +1740,6 @@ https://www.youtube.com/watch?v=72dfyI3YvQc
 
 
 
-
-
 #EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Mana yang Lebih Afdal: Kurban di Daerah Domisili atau Daerah Lain?
 https://www.youtube.com/watch?v=2PNON5nBG-U
 #EXTINF:-305 group-title="4. DzulqarnainMS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/dzul%20logo.jpg",Doa Ampunan bagi Orang Tua yang Telah Meninggal
@@ -1664,6 +1873,10 @@ https://www.youtube.com/watch?v=yfcO0i5rMsM
 https://www.youtube.com/watch?v=KW49tUubImU&t=18s
 #EXTINF:-530 group-title="5. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Menulis Huruf N
 https://www.youtube.com/watch?v=COEhQJs6kM4
+#EXTINF:-530 group-title="5. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Belajar Wudhu yang Benar
+https://www.youtube.com/watch?v=LwnLurexn1Y
+#EXTINF:-530 group-title="5. YUFID KIDS" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/yufidkids.png",Mengenal Tempat Umum Bag 1
+https://www.youtube.com/watch?v=ehXPwBzg4SU
 
 
 #EXTINF:-600 group-title="6. Sarah Play School" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sarah%20playschool.png",Sarah Play School
@@ -1932,4 +2145,14 @@ https://www.youtube.com/watch?v=frW0EUc5Yjo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0
 #EXTINF:-775 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 76
 https://www.youtube.com/watch?v=AVE-4SBcYUo&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=76
 #EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 77
-https://www.youtube.com/watch?v=FcYdELofGsk&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=81
+https://www.youtube.com/watch?v=FcYdELofGsk&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=77
+#EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 78
+https://www.youtube.com/watch?v=pTpda8At_Dw&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=78
+#EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 79
+https://www.youtube.com/watch?v=PcYHRZSuUck&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=79
+#EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 80
+https://www.youtube.com/watch?v=s7t3J1OmZW8&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=80
+#EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 81
+https://www.youtube.com/watch?v=vxK9KcG-TyE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=81
+#EXTINF:-776 group-title="7. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 82
+https://www.youtube.com/watch?v=FAQtL8M_-0w&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=82
