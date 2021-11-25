@@ -76,7 +76,7 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-114 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 2
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 #EXTINF:-115 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
-https://h1.intechmedia.net/intech/ch102.m3u8
+https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-115 group-title="1. TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV 2
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF:-115 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio%20hidayah.png",HIDAYAH TV
