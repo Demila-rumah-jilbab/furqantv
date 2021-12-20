@@ -18,8 +18,12 @@ https://www.youtube.com/c/RifqanTV/live
 https://www.youtube.com/c/FatwaTVOfficial/live
 #EXTINF:-10 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB Youtube
 https://www.youtube.com/c/khalidbasalamah/live
+#EXTINF:-10 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/GAZWAH.png",GAZWAH TV Youtube
+https://www.youtube.com/c/GazwahTVOfficial/live
 #EXTINF:-12 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV Youtube
 https://www.youtube.com/c/SunnahJalanPasti/live
+#EXTINF:-12 group-title="1. TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/TADABBUR.png",TADABBUR DAILY Youtube
+https://www.youtube.com/c/TadabburDaily/live
 
 #EXTINF:-100 group-title="1. TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV
 https://h1.intechmedia.net/intech/ch6.m3u8
