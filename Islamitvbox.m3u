@@ -29,12 +29,8 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-104 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 https://h1.intechmedia.net/intech/ch14.m3u8
-#EXTINF:-105 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-106 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
 https://h1.intechmedia.net/intech/ch13.m3u8
-#EXTINF:-107 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV 2
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-108 tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-109 tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV 2
@@ -59,8 +55,6 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 https://h1.intechmedia.net/intech/ch8.m3u8
 #EXTINF:-119 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
 https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:-120 tvg-logo="https://live.artvisi.or.id/logo/hangtv.png",HANG TV
-https://h1.intechmedia.net/intech/ch103.m3u8
 #EXTINF:-121 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
 https://h1.intechmedia.net/intech/ch10.m3u8
 #EXTINF:-122 tvg-logo="http://live.artvisi.or.id/logo/niagatv.png" ,NIAGA TV 2
