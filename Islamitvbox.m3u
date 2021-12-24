@@ -49,7 +49,7 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-116 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV 2
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-117 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg",ALFURQON TV
+#EXTINF:-117 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-118 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH%20TV.jpg",HIJRAH TV
 https://h1.intechmedia.net/intech/ch8.m3u8
@@ -71,7 +71,7 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-128 tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV 2
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
-#EXTINF:-129 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio%20hidayah.png",HIDAYAH TV
+#EXTINF:-129 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radiohidayah.png",HIDAYAH TV
 https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8 
 #EXTINF:-130 tvg-logo="https://live.artvisi.or.id/logo/ibnuabbastv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
