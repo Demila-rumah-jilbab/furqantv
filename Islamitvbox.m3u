@@ -26,6 +26,8 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 #EXTINF:-102 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 #EXTINF:-103 tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
+https://h1.intechmedia.net/intech/ch26.m3u8
+#EXTINF:-103 tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-104 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 https://h1.intechmedia.net/intech/ch14.m3u8
