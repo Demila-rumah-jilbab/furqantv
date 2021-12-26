@@ -2,7 +2,7 @@
 https://www.youtube.com/c/rasyaadtvofficial/live
 #EXTINF:-2 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/statv.png",STA TV Youtube
 https://www.youtube.com/c/SyiarTauhidAcehSiaranRadiodanTV/live
-#EXTINF:-3 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDS TV Youtube
+#EXTINF:-3 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV Youtube
 https://www.youtube.com/c/MediaSunnahAceh/live
 #EXTINF:-4 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV Youtube
 https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw/live
@@ -21,7 +21,7 @@ https://www.youtube.com/c/SunnahJalanPasti/live
 
 #EXTINF:-100 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV
 https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:-101 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/1494F90A-8123-418B-A446-54AAE5491097.png",MEDS TV ACEH
+#EXTINF:-101 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
 https://h1.intechmedia.net/intech/ch23.m3u8
 #EXTINF:-102 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
