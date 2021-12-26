@@ -31,7 +31,7 @@ https://h1.intechmedia.net/intech/ch26.m3u8
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-104 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 https://h1.intechmedia.net/intech/ch14.m3u8
-EXTINF:-104 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
+#EXTINF:-104 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-106 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
 https://h1.intechmedia.net/intech/ch13.m3u8
