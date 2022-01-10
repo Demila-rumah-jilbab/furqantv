@@ -30,12 +30,8 @@ https://h1.intechmedia.net/intech/ch26.m3u8
 #EXTINF:-103 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-104 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
-https://h1.intechmedia.net/intech/ch14.m3u8
-#EXTINF:-104 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-106 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
-https://h1.intechmedia.net/intech/ch13.m3u8
-#EXTINF:-106 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV 2
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-108 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
