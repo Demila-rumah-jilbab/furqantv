@@ -30,8 +30,12 @@ https://h1.intechmedia.net/intech/ch26.m3u8
 #EXTINF:-103 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 #EXTINF:-104 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641965006/ei/bhHeYZeADZaN3LUP6ZWZkAc/ip/36.71.141.99/id/RdWayAATiLM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24152031/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMSq6dpowbbtDSqh3-Tk-xIKtIV429jBXplXukrv7E2sAiEArXeUVdzSSpk096qvix7hLkc6pj5SPjJD06LmkjTspR8%3D/file/index.m3u8
+#EXTINF:-104 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-106 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641965287/ei/hxLeYZz3LKfk3LUP5dOSkAw/ip/36.71.141.99/id/gUC3TjCrwRw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24152031/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJmSLTq93huaw9bmPj5EcYJcqYIb_wAAYf4-utK4lW_lAiEA5Rxlqt_AMk-8WvK-kvqlf51nodfLFC1AZLegtOOazOo%3D/file/index.m3u8
+#EXTINF:-106 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV 2
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-108 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
