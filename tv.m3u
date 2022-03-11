@@ -34,6 +34,8 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 https://www.youtube.com/watch?v=0n29o7tO-A0
 #EXTINF:-19 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-19 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV 2
+http://rr2.dens.tv/s/s27/index.m3u8
 #EXTINF:-20 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV Youtube
 https://www.youtube.com/watch?v=gUC3TjCrwRw
 #EXTINF:-21 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
@@ -64,6 +66,8 @@ https://www.youtube.com/c/RifqanTV/live
 https://h1.intechmedia.net/intech/ch26.m3u8
 #EXTINF:-34 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-34 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 3
+http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-35 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-36 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV Youtube
