@@ -1,7 +1,5 @@
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png"",AHSAN TV
 https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV 2
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-4 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
