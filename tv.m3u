@@ -85,6 +85,25 @@ https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw/live
 
 #EXTINF:-100 group-title="RADIO SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA RADIO
 http://radio.firanda.com/ufalive24.mp3
+#EXTINF:-101 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png",RODJA RADIO
+https://radioislamindonesia.com/rodjatv.mp3
+#EXTINF:-102 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png",AL-IMAN RADIO
+https://radioislamindonesia.com/aliman.mp3
+#EXTINF:-103 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mutiaraquran.png",MUTIARA QUR'AN RADIO
+https://radioislamindonesia.com/mutiaraquran.mp3
+#EXTINF:-104 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hidayahfm.png",HIDAYAH RADIO
+https://radioislamindonesia.com/radiohidayah.mp3
+#EXTINF:-105 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png",MADINAH RADIO
+https://radioislamindonesia.com/radiomadinah.mp3
+#EXTINF:-106 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiomuadz.png",MUADZ RADIO
+https://radioislamindonesia.com/radiomuadz.mp3
+#EXTINF:-107 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/shahabat.png",SHAHABAT MUSLIM RADIO
+https://radioislamindonesia.com/shahabatmuslim.mp3
+#EXTINF:-108 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/tarbiyahsunnah.png",TARBIYAH SUNNAH RADIO
+https://radioislamindonesia.com/tarbiyah.mp3
+#EXTINF:-109 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiohsi.png",HSI RADIO
+http://whsh4u-panel.com:14007/stream
+
 
 #EXTINF:-300 group-title="2. SHAHIH FIQIH" tvg-logo="https://pbs.twimg.com/profile_images/1244110581570793473/0BMkNA8g_400x400.jpg",Bertanya Hal Yang Tak Penting
 https://www.youtube.com/watch?v=V_stZmcfI7w
