@@ -76,6 +76,8 @@ https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-39 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV Youtube
 https://www.youtube.com/c/MenebarCahayaSunnah/live
+#EXTINF:-39 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SRB Youtube
+https://www.youtube.com/c/SyafiqRizaBasalamahOfficial/channels
 #EXTINF:-40 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-41 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV Youtube
