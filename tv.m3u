@@ -54,6 +54,8 @@ https://www.youtube.com/c/MediaSunnahAceh/live
 https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV 2
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV Youtube
+https://youtube.com/c/MGITVstreaming/live
 #EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV 2
