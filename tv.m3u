@@ -6,10 +6,10 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 https://h1.intechmedia.net/intech/ch9.m3u8
 #EXTINF:-6 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV 2
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
+#EXTINF:-6 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV 3
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV 2
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
 #EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-13 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH%20TV.jpg",HIJRAH TV
@@ -20,6 +20,8 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 https://h1.intechmedia.net/intech/ch7.m3u8
 #EXTINF:-16 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-17 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV 2
+https://streaming.sigraduta.co.id/izzahtv.m3u8
 #EXTINF:-18 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 1
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-19 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV 2
@@ -44,15 +46,19 @@ https://h1.intechmedia.net/intech/ch10.m3u8
 https://h1.intechmedia.net/intech/ch6.m3u8
 #EXTINF:-37 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-38 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-40 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SJP TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-43 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-44 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV 2
-http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:-46 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 #EXTINF:-48 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiokitatv.png",TV SUNNAH
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-49 group-title="TV SUNNAH" tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTINF:-50 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
