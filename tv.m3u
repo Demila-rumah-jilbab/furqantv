@@ -10,6 +10,8 @@ http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV 2
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-13 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH%20TV.jpg",HIJRAH TV
