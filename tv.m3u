@@ -90,7 +90,7 @@ http://185.47.62.52:8000/
 http://live.assunnahfm.com:9010/
 
 #EXTINF:-107 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png"",Radio Syi'ar Tauhid Aceh
-http://45.64.97.82:8260/
+http://45.64.97.82:8260/;
 
 #EXTINF:-108 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/arrisalahfm.png"",Radio Arrisalah
 https://pu.klikhost.com:8092/stream
