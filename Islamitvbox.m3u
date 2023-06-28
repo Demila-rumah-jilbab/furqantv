@@ -4,6 +4,9 @@ https://ythls.onrender.com/channel/UCZLEB_Oux4yjwV2YIhAlPyQ.m3u8
 #EXTINF:-5 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV Youtube
 https://ythls.onrender.com/channel/UCLv7XwosDngInAGR7P6KT0A.m3u8
 
+#EXTINF:-6 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
+https://ythls.onrender.com/channel/UCt4RctAtLKx9Vz_XQIR4Qyw.m3u8
+
 #EXTINF:-7 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV Youtube
 https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 
@@ -49,6 +52,9 @@ https://live.mgitv.com/mgitv/streaming.m3u8
 #EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV Youtube
 https://ythls.onrender.com/channel/UCOM0_JMqjaPDeta_ObATZ0w.m3u8
 
+#EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/naajiya%20tv.jpeg",Naajiya TV
+https://ythls.onrender.com/channel/UCO4twEoisQIhNFqU1Sjyr0Q.m3u8
+
 #EXTINF:-34 group-title="TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV Youtube
 https://ythls.onrender.com/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 
@@ -74,7 +80,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 https://ythls.onrender.com/channel/UCBomWtcsP4PumQOaOTmXXGw.m3u8
 
 #EXTINF:-47 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV Youtube
-https://ythls.onrender.com/channel/UCm44PmruoSbuNbZn7jFeXUw.m3u8
+https://ythls.onrender.com/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
 
 #EXTINF:-47 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH Youtube
 https://ythls.onrender.com/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
@@ -91,17 +97,11 @@ https://radioislamindonesia.com/aliman.mp3?_=2
 #EXTINF:-102 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/shahabat.png"",Radio Sahabat
 https://radioislamindonesia.com/shahabatmuslim.mp3
 
-#EXTINF:-103 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiomuslim.png"",Radio Muslim
-https://streaming.radiomuslim.com/;stream/1
-
 #EXTINF:-104 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA 
 https://server-s5.xajist.com/sslstream/8522/;?1672893035952
 
 #EXTINF:-105 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hang.png"",Radio HANG
 http://185.47.62.52:8000/
-
-#EXTINF:-106 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiosatu.png"",Radio SATU
-http://live.assunnahfm.com:9010/
 
 #EXTINF:-107 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png"",Radio Syi'ar Tauhid Aceh
 http://45.64.97.82:8260/;
@@ -115,9 +115,6 @@ https://ssg.streamingmurah.com:8070/;
 #EXTINF:-110 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hidayahfm.png"",Radio Hidayah
 https://radioislamindonesia.com/radiohidayah.mp3
 
-#EXTINF:-111 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png"",Radio Madinah
-http://119.82.232.83/radiomadinah.mp3
-
 #EXTINF:-112 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiohsi.png"",Radio HSI
 http://whsh4u-panel.com:14007/
 
@@ -129,9 +126,6 @@ https://radioislamindonesia.com/radiomadinah.mp3
 
 #EXTINF:-115 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png"",Radio Raudlatul Jannah
 http://live.syaria.net:9306/;stream.nsv
-
-#EXTINF:-116 group-title="RADIO SUNNAH" tvg-logo="https://cdn-profiles.tunein.com/s271937/images/logoq.png?t=637286958680000000"",Radio Hijrah
-http:\/\/streaming.hijrahfm.com:80\/;
 
 #EXTINF:-118 group-title="RADIO SUNNAH" tvg-logo="https://taawundakwah.com/wp-content/uploads/2016/09/logo-rds-kotak-720x720.jpg"",Radio Dakwah Sunnah
 http://live.dakwahsunnah.com/;stream.mp3
@@ -153,9 +147,6 @@ https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.m
 
 #EXTINF:-124 group-title="RADIO SUNNAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWYzrjnSFY9iO05yXgdtheirfXTDP19ay5A&usqp=CAU"",Radio Dzikir Petang
 https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
-
-#EXTINF:-125 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/deifm.png"",Radio DEI FM
-http://live2.indostreamserver.com:8070/;?1672825243232
 
 #EXTINF:-126 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/amoeba.png"",Radio Amoeba FM
 http://live.syaria.net:9300/;?1672826390470
