@@ -52,8 +52,11 @@ https://live.mgitv.com/mgitv/streaming.m3u8
 #EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV Youtube
 https://ythls.onrender.com/channel/UCOM0_JMqjaPDeta_ObATZ0w.m3u8
 
-#EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/naajiya%20tv.jpeg",Naajiya TV
+#EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/naajiya%20tv.jpeg",Naajiya TV Youtube
 https://ythls.onrender.com/channel/UCO4twEoisQIhNFqU1Sjyr0Q.m3u8
+
+#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV Youtube
+https://ythls.onrender.com/channel/UCNtZkmYBRQCr-J-4n7IqShg.m3u8
 
 #EXTINF:-34 group-title="TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV Youtube
 https://ythls.onrender.com/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
