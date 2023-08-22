@@ -80,6 +80,9 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UCBomWtcsP4PumQOaOTmXXGw/master
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCM73P3XvOfj0HjC97KKYW5g/master.m3u8
 
+#EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCSfNcvSwqOfA33QYkzZfB-g/master.m3u8
 
@@ -123,8 +126,6 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UCJZqE3E-V-xuQA8U6MT-PIQ/master
 
 #EXTINF:-111 group-title="TV SUNNAH 2" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",Radio Kita-Tv Sunnah Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCN2TwpzyJbPrpjy7FHztWnA/master.m3u8
-
-
 
 #EXTINF:-1001 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png"",Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
