@@ -80,6 +80,9 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UCBomWtcsP4PumQOaOTmXXGw/master
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCM73P3XvOfj0HjC97KKYW5g/master.m3u8
 
+#EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCSfNcvSwqOfA33QYkzZfB-g/master.m3u8
 
