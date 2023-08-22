@@ -1,8 +1,14 @@
-#EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",TV Annashihah Youtube
+#EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCZLEB_Oux4yjwV2YIhAlPyQ/master.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/GwHp-CzAOAeyFp7N8JoKtaqPTI8ycXq7SCBtL9twGZTseCbkUrNu1eTleYfTtPmq7FWn835OUA=s88-c-k-c0x00ffffff-no-rj",ALFURQAN TV Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UC2FIGD4FVOSWL61jz_yd3HA/master.m3u8
+
+#EXTINF:-2 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
+https://tv.aliman.id/aliman/live.m3u8
+
+#EXTINF:-2 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV Youtube
+https://youtube-m3u8.foerkhan.workers.dev/stream/UCLv7XwosDngInAGR7P6KT0A/master.m3u8
 
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
@@ -96,9 +102,6 @@ https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-101 group-title="TV SUNNAH 2" tvg-logo="https://yt3.ggpht.com/eWSREpWUI9nBAeT10XwZDZ5BUbMFDjrRyKuhHocaK3SdocPAiKMmQcSp2eyy2jSZdmlCiqeVHA=s88-c-k-c0x00ffffff-no-rj",anb Channel Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCJJ1iBTlStAWoBZIPH6fPYA/master.m3u8
-
-#EXTINF:-102 group-title="TV SUNNAH 2" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV Youtube
-https://youtube-m3u8.foerkhan.workers.dev/stream/UCLv7XwosDngInAGR7P6KT0A/master.m3u8
 
 #EXTINF:-103 group-title="TV SUNNAH 2" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS_UgZ4ecQWg3yjuYeyLC-JDbb1KnKgZgfy8GhXHw=s88-c-k-c0x00ffffff-no-rj",Rumaysho TV Youtube
 https://youtube-m3u8.foerkhan.workers.dev/stream/UC42PJ3sXqYJwSMPtiWCTfew/master.m3u8
