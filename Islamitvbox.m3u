@@ -5,7 +5,7 @@
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV (HD)
-https://youtube-m3u8.foerkhan.workers.dev/stream/UC6c15GN6fw8ASTBKjODgtcw/master.m3u8
+#https://youtube-m3u8.foerkhan.workers.dev/stream/UC6c15GN6fw8ASTBKjODgtcw/master.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV (HD)
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCZLEB_Oux4yjwV2YIhAlPyQ/master.m3u8
@@ -42,7 +42,7 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UC-tEtTRwEpRmlo26dGTpanA/master
 https://h1.intechmedia.net/intech/ch22.m3u8
 
 #EXTINF:-6 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV (HD)
-https://youtube-m3u8.foerkhan.workers.dev/stream/UCt4RctAtLKx9Vz_XQIR4Qyw/master.m3u8
+#https://youtube-m3u8.foerkhan.workers.dev/stream/UCt4RctAtLKx9Vz_XQIR4Qyw/master.m3u8
 
 #EXTINF:-7 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/logo/binamadanitv.png", Bina Madani TV (SD)
 #EXTVLCOPT:http-user-agent=YouTV/1.6.4-prod.release+9794f08-6 (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -66,7 +66,7 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UCJHC3VbFsp7kJ2NxPGltwiw/master
 https://h1.intechmedia.net/intech/ch8.m3u8
 
 #EXTINF:-12 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR-BoM_AHAnfeQj0a-x1puJR7AA7_1odp8ZLJ2G=s88-c-k-c0x00ffffff-no-rj",Hijrah TV (HD)
-https://youtube-m3u8.foerkhan.workers.dev/stream/UC613xD_KbfnvOXQPfrFu16g/master.m3u8
+#https://youtube-m3u8.foerkhan.workers.dev/stream/UC613xD_KbfnvOXQPfrFu16g/master.m3u8
 
 #EXTINF:-13 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV (SD)
 #EXTVLCOPT:http-user-agent=YouTV/1.6.4-prod.release+9794f08-6 (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -151,12 +151,12 @@ https://youtube-m3u8.foerkhan.workers.dev/stream/UCkrLd1cy4AUOp1pAdu1Ru7Q/master
 
 #EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
-#EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2 (HD)
+#EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 1 (HD)
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 3 (HD)
+#EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV 2 (HD)
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCghNwGdNSxfTyIV-8Bz_EFg/master.m3u8
 
 #EXTINF:-26 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SRB (HD)
@@ -194,7 +194,7 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 #EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH 2 (HD)
-https://youtube-m3u8.foerkhan.workers.dev/stream/UCN2TwpzyJbPrpjy7FHztWnA/master.m3u8
+#https://youtube-m3u8.foerkhan.workers.dev/stream/UCN2TwpzyJbPrpjy7FHztWnA/master.m3u8
 
 #EXTINF:-32 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV (HD)
 https://youtube-m3u8.foerkhan.workers.dev/stream/UCSfNcvSwqOfA33QYkzZfB-g/master.m3u8
