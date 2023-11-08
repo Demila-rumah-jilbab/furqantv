@@ -216,6 +216,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-34 group-title="TV SUNNAH" tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
 
+#EXTINF:-35 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht",Syiar Sunnah Lhokseumawe
+#https://youtube-m3u8.foerkhan.workers.dev/stream/UC2Wojyq6op0i5mqR7tPH7xw/master.m3u8
 
 #################################### NOT 24 H #####################################
 
