@@ -241,7 +241,10 @@ https://radioislamindonesia.com/aliman.mp3?_=2
 https://radioislamindonesia.com/shahabatmuslim.mp3
 
 #EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA 
-https://server-s5.xajist.com/sslstream/8522/;?1672893035952
+https://radioislamindonesia.com/rodja-low.mp3?_=1
+
+#EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA 2 
+https://live2.radiorodja.com/rodja-low.mp3?_=3
 
 #EXTINF:-1005 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hang.png"",Radio HANG
 http://185.47.62.52:8000/
@@ -262,7 +265,7 @@ https://radioislamindonesia.com/radiohidayah.mp3
 http://whsh4u-panel.com:14007/
 
 #EXTINF:-1013 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/alkanz.png"",Radio AlKanz
-http://live.radiomutiaraquran.com:8000/stream
+http://sci.streamingmurah.com:8176/
 
 #EXTINF:-1014 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png"",Radio MADINAH
 https://radioislamindonesia.com/radiomadinah.mp3
