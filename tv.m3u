@@ -1,8 +1,5 @@
 ################################################ TV SUNNAH ##############################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fQX7H/dwXB5FL/fhuEGhuA", "kid":"Z/46w8oRHJvdboSACR3BPA" } ], "type":"temporary" }
-
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch4.m3u8
@@ -94,7 +91,7 @@ https://youtube-live.freemium-d57.workers.dev/stream/UCROKYPep-UuODNwyipe6JMw/ma
 https://flv.intechmedia.net/live/ch23.m3u8
 
 #EXTINF:-17 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV (Youtube)
-https://youtube-live.freemium-d57.workers.dev/stream/UCem4zrffr93cp-o8cOPDhdQ/master.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
 
 #EXTINF:-18 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
