@@ -1,4 +1,5 @@
-#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fQX7H/dwXB5FL/fhuEGhuA", "kid":"Z/46w8oRHJvdboSACR3BPA" } ], "type":"temporary" }
 
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
