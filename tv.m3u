@@ -15,8 +15,8 @@ https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQAN TV (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@AlFurqonTVofficial
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@AlFurqonTVofficial
 
 #EXTINF:-4 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -51,8 +51,8 @@ https://iptvsunnah.foerkhan.workers.dev/@FatwaTVOfficial
 
 #EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/GAZWAH.png",GAZWAH TV (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@GazwahTVOfficial
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@GazwahTVOfficial
 
 #EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -83,8 +83,8 @@ https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-15 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@SaudiQuranTv
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@SaudiQuranTv
 
 #EXTINF:-16 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -104,8 +104,8 @@ https://flv.intechmedia.net/live/ch23.m3u8
 
 #EXTINF:-17 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@MediaSunnahAceh
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@MediaSunnahAceh
 
 #EXTINF:-18 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -138,8 +138,8 @@ https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTINF:-23 group-title="TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@RasyaadTvLiveStreaming
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@RasyaadTvLiveStreaming
 
 #EXTINF:-24 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/rifqantv.png",RIFQAN (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -155,8 +155,8 @@ https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-26 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SRB (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@SyafiqRizaBasalamahOfficial
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@SyafiqRizaBasalamahOfficial
 
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj", Sunnah Jalan Pasti
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -180,8 +180,8 @@ https://flv.intechmedia.net/live/ch12.m3u8
 
 #EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH (Youtube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://iptvsunnah.foerkhan.workers.dev/@TarbiyahSunnahChannel
-#https://youtube-m3u8.foerkhan.workers.dev/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+#https://iptvsunnah.foerkhan.workers.dev/@TarbiyahSunnahChannel
 
 #EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
