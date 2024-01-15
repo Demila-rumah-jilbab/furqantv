@@ -153,7 +153,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 https://flv.intechmedia.net/live/ch12.m3u8
 
 #EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH (Youtube)
-https://tarbiyahsunnahchannel.foerkhan.workers.dev/tv
+https://tarbiyahsunnahchannel.foerkhan.workers.dev/TarbiyahSunnahChannel
 
 #EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
