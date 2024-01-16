@@ -12,7 +12,7 @@ https://tvannashihah.foerkhan.workers.dev/@tvannashihah
 https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQAN TV (Youtube)
-https://alfurqontvofficial.foerkhan.workers.dev/@AlFurqonTVofficial
+https://ythls-v2.onrender.com/channel/UC2FIGD4FVOSWL61jz_yd3HA.m3u8
 
 #EXTINF:-4 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
