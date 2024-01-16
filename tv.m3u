@@ -148,8 +148,8 @@ https://ythls-v2.onrender.com/video/aOwwv5SNXJs.m3u8
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-#EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV 2
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+#EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Youtube)
+https://ythls-v2.onrender.com/channel/UCBomWtcsP4PumQOaOTmXXGw.m3u8
 #https://flv.intechmedia.net/live/ch3.m3u8
 
 #EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/salamtv.png",SALAM TV
