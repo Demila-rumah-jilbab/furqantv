@@ -159,11 +159,11 @@ https://flv.intechmedia.net/live/ch12.m3u8
 #EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH (Youtube)
 https://ythls-v2.onrender.com/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 
-#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH
+#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/IMG_0071.jpeg",TV SUNNAH
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch16.m3u8
 
-#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/hxxJUXkH-agOdBqFJa9FF_uVyYBWpIoN-kMnwon4pzHf5fayfDKO0J0RA4VMoYGOK8BjpWx6uBw=s88-c-k-c0x00ffffff-no-rj",TV SUNNAH 2
+#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/IMG_0071.jpeg",TV SUNNAH 2
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 #EXTINF:-32 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV (Youtube)
