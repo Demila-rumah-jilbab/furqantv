@@ -43,9 +43,6 @@ https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV (Youtube)
 https://ythls-v2.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 
-#EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/GAZWAH.png",GAZWAH TV (Youtube)
-https://ythls-v2.onrender.com/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
-
 #EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB (Youtube)
 https://ythls-v2.onrender.com/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 
@@ -142,8 +139,7 @@ https://ythls-v2.onrender.com/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 https://flv.intechmedia.net/live/ch17.m3u8
 
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj",Sunnah Jalan Pasti TV (Youtube)
-https://ythls-v2.onrender.com/video/aOwwv5SNXJs.m3u8
-#https://sunnahjalanpasti.foerkhan.workers.dev
+https://ythls-v2.onrender.com/channel/UCoPO7QD-HlBn7B02OMOsJJQ.m3u8
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
