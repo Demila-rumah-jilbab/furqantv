@@ -5,7 +5,6 @@
 https://flv.intechmedia.net/live/ch4.pm3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV (Youtube)
-#https://ythls-v2.onrender.com/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
 https://youtube-m3u8.foerkhan.workers.dev/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
 
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
