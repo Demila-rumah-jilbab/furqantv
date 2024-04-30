@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch4.pm3u8
+https://flv.intechmedia.net/live/ch4.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV (Youtube)
 https://youtube-m3u8.foerkhan.workers.dev/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
@@ -142,7 +142,7 @@ https://youtube-m3u8.foerkhan.workers.dev/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
 https://flv.intechmedia.net/live/ch17.m3u8
 
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj",Sunnah Jalan Pasti TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UC50JKy0lj4jNojE9z254lpw.m3u8
+https://youtube-m3u8.foerkhan.workers.dev/live/qRWLxFsNyxx6X3NS.m3u8
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
