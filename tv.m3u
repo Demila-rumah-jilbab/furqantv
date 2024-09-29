@@ -5,7 +5,7 @@
 https://flv.intechmedia.net/live/ch4.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
+https://tvannashihah.foerkhan.workers.dev
 
 #EXTINF:-3 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -42,13 +42,13 @@ https://flv.intechmedia.net/live/ch29.m3u8
 https://flv.intechmedia.net/live/ch30.m3u8
 
 #EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
+https://fatwatvofficial.foerkhan.workers.dev
 
 #EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/GAZWAH.png",GAZWAH TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCiTK5pzTj6BMIO14YYLA_jA.m3u8
+https://gazwahtvofficial.foerkhan.workers.dev
 
 #EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
+https://khalidbasalamah.foerkhan.workers.dev
 
 #EXTINF:-12 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR-BoM_AHAnfeQj0a-x1puJR7AA7_1odp8ZLJ2G=s88-c-k-c0x00ffffff-no-rj",HIJRAH TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -87,7 +87,7 @@ https://saudisunnahtv.foerkhan.workers.dev
 https://flv.intechmedia.net/live/ch23.m3u8
 
 #EXTINF:-17 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+https://mediasunnahaceh.foerkhan.workers.dev
 
 #EXTINF:-18 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -98,7 +98,7 @@ https://flv.intechmedia.net/live/ch5.m3u8
 https://flv.intechmedia.net/live/ch25.m3u8
 
 #EXTINF:-19 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s176-c-k-c0x00ffffff-no-rj",Marhaban TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
+https://marhabantvgarut.foerkhan.workers.dev
 
 #EXTINF:-20 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/KUbqmLqRxY-70_IljLU4uyerhQzPZ66DVYoqmBNDAT7TSfkG3Fu015LxvSsEsma6VD3rNYu0Yw=s88-c-k-c0x00ffffff-no-rj",Naajiya TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -121,7 +121,7 @@ https://flv.intechmedia.net/live/ch15.m3u8
 https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTINF:-23 group-title="TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+https://rasyaadtvlivestreaming.foerkhan.workers.dev
 
 #EXTINF:-25 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -131,14 +131,14 @@ https://flv.intechmedia.net/live/ch26.m3u8
 https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-26 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SRB (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
+https://syafiqrizabasalamahofficial.foerkhan.workers.dev
 
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj", Sunnah Jalan Pasti
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
 
 #EXTINF:-27 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj",Sunnah Jalan Pasti TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCoPO7QD-HlBn7B02OMOsJJQ.m3u8v
+https://sunnahjalanpasti.foerkhan.workers.dev
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -148,14 +148,14 @@ https://flv.intechmedia.net/live/ch3.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCBomWtcsP4PumQOaOTmXXGw.m3u8
+https://surautv.foerkhan.workers.dev
 
 #EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/salamtv.png",SALAM TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch12.m3u8
 
 #EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
+https://tarbiyahsunnahchannel.foerkhan.workers.dev
 
 #EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/IMG_0071.jpeg",TV SUNNAH
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -165,7 +165,7 @@ https://flv.intechmedia.net/live/ch16.m3u8
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 #EXTINF:-32 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV (Youtube)
-https://youtube-m3u8.foerkhan.workers.dev/channel/UCSfNcvSwqOfA33QYkzZfB-g.m3u8
+https://ufalive24.foerkhan.workers.dev
 
 #EXTINF:-33 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
