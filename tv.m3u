@@ -108,7 +108,7 @@ https://flv.intechmedia.net/live/ch7.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch10.m3u8
 
-#EXTINF:-22 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/puldapiitv.jpg", Paliko TV
+#EXTINF:-22 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGU7flT1hcD1usgxMjqi45POKeU7Z5iRGTsPgWwgYdfA=s160-c-k-c0x00ffffff-no-rj", Paliko TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch31.m3u8
 
