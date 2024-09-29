@@ -35,7 +35,11 @@ https://flv.intechmedia.net/live/ch20.m3u8
 
 #EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg", Dei Kids
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://e.siar.us/live/deikidstv.m3u8
+https://flv.intechmedia.net/live/ch29.m3u8
+
+#EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/vnyqgsAj3qszixjM9FdPw46HjbFBLtBmukdQgVPGOW-_6haphCKV9vmLk1JQ0MRbgfz9AiYK=s160-c-k-c0x00ffffff-no-rj", WaLad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch30.m3u8
 
 #EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV (Youtube)
 https://fatwatvofficial.foerkhan.workers.dev
@@ -104,6 +108,10 @@ https://flv.intechmedia.net/live/ch7.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch10.m3u8
 
+#EXTINF:-22 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGU7flT1hcD1usgxMjqi45POKeU7Z5iRGTsPgWwgYdfA=s160-c-k-c0x00ffffff-no-rj", Paliko TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch31.m3u8
+
 #EXTINF:-22 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/puldapiitv.jpg", Puldapii TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch15.m3u8
@@ -133,6 +141,10 @@ https://flv.intechmedia.net/live/ch17.m3u8
 https://sunnahjalanpasti.foerkhan.workers.dev
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch3.m3u8
+
+#EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Youtube)
