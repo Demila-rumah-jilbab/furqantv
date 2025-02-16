@@ -1,7 +1,7 @@
 ################################################ TV SUNNAH ##############################################################
 
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV tes
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch4.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://th.bing.com/th/id/OIP.zpk2WF6g5Idz4NaBwx44hwHaHa?pid=ImgDet&rs=1",Annashihah TV (Youtube)
