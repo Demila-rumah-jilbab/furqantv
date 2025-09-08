@@ -163,13 +163,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
 #EXTINF:-1001 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png"",Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
 
-#EXTINF:-1002 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/shahabat.png"",Radio Sahabat
-https://radioislamindonesia.com/shahabatmuslim.mp3
-
-#EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA 
-https://radioislamindonesia.com/rodja-low.mp3?_=1
-
-#EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA 2 
+#EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA
 https://live2.radiorodja.com/rodja-low.mp3?_=3
 
 #EXTINF:-1005 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hang.png"",Radio HANG
@@ -177,12 +171,6 @@ http://185.47.62.52:8000/
 
 #EXTINF:-1007 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png"",Radio Syi'ar Tauhid Aceh
 http://45.64.97.82:8260/;
-
-#EXTINF:-1008 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/arrisalahfm.png"",Radio Arrisalah
-https://pu.klikhost.com:8092/stream
-
-#EXTINF:-1009 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/insanifm.png"",Radio Insani
-https://ssg.streamingmurah.com:8070/;
 
 #EXTINF:-1010 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hidayahfm.png"",Radio Hidayah
 https://radioislamindonesia.com/radiohidayah.mp3
@@ -195,9 +183,6 @@ https://radioislamindonesia.com/radiomadinah.mp3
 
 #EXTINF:-1015 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png"",Radio Raudlatul Jannah
 http://live.syaria.net:9306/;stream.nsv
-
-#EXTINF:-1018 group-title="RADIO SUNNAH" tvg-logo="https://taawundakwah.com/wp-content/uploads/2016/09/logo-rds-kotak-720x720.jpg"",Radio Dakwah Sunnah
-http://live.dakwahsunnah.com/;stream.mp3
 
 #EXTINF:-1019 group-title="RADIO SUNNAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU"",Radio Kita Cirebon
 https://sunnah.radio.yufid.com/;stream.mp3
@@ -225,12 +210,3 @@ http://pu.klikhost.com:7204/stream?1672828237600
 
 #EXTINF:-1028 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/rjfm.png"",Radio RJFM
 http://live.syaria.net:9306/;?1672828352135
-
-#EXTINF:-1029 group-title="RADIO SUNNAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14s_jKCtayPLydi6z0TTJFx2Fh85lIA_okQ&usqp=CAU"",Radio Al-Qur'an Indo
-http://server2.quraan.us:9978/;*.mp3
-
-#EXTINF:-1030 group-title="RADIO SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",Radio UFA
-https://radio.firanda.com/ufalive24.mp3
-
-#EXTINF:-1031 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/alhikmahfm.png",Radio Al-Hikmah
-http://live2.indostreamserver.com:8010/index.html?sid=1
