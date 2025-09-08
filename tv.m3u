@@ -49,6 +49,9 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
 
+#EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",MAKKAH TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
 #EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch14.m3u8
@@ -128,6 +131,33 @@ https://flv.intechmedia.net/live/ch34.m3u8
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/blob/main/IMG_3588.png",RINJANI TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
+
+#EXTINF:-29 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCWcErqFw28UlHluawiWLO2g
+
+#EXTINF:-30 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/GAZWAH.png",GAZWAH TV (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiTK5pzTj6BMIO14YYLA_jA
+
+#EXTINF:-31 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/khb_logo.png",KHB (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
+
+
+#EXTINF:-32 group-title="TV SUNNAH" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCotIkyDFzztbSm21GNGsK9w
+
+#EXTINF:-33 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SRB.png",SRB (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
+
+#EXTINF:-34 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR27rYmsfARHn7FxFlz2kLk586ZgxOZFBIt3NzBTQ=s88-c-k-c0x00ffffff-no-rj",Sunnah Jalan Pasti TV (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCoPO7QD-HlBn7B02OMOsJJQ
+
+#EXTINF:-35 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/tarbiyahsunnah.png",TARBIYAH SUNNAH (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
+
+#EXTINF:-36 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png",UFA TV (Youtube)
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
+
+
 
 #################################### RADIO #####################################
 #EXTINF:-1001 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png"",Radio Al Iman
