@@ -20,14 +20,6 @@ https://flv.intechmedia.net/live/ch2.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch22.m3u8
 
-#EXTINF:-6 group-title="TV SUNNAH" tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg", Dei Kids
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch29.m3u8
-
-#EXTINF:-7 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/vnyqgsAj3qszixjM9FdPw46HjbFBLtBmukdQgVPGOW-_6haphCKV9vmLk1JQ0MRbgfz9AiYK=s160-c-k-c0x00ffffff-no-rj", WaLad TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch30.m3u8
-
 #EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaR-BoM_AHAnfeQj0a-x1puJR7AA7_1odp8ZLJ2G=s88-c-k-c0x00ffffff-no-rj",HIJRAH TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch8.m3u8
@@ -54,33 +46,13 @@ https://flv.intechmedia.net/live/ch14.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-13 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch23.m3u8
-
 #EXTINF:-14 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch5.m3u8
 
-#EXTINF:-15 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch25.m3u8
-
 #EXTINF:-16 group-title="TV SUNNAH" tvg-logo="https://yt3.ggpht.com/KUbqmLqRxY-70_IljLU4uyerhQzPZ66DVYoqmBNDAT7TSfkG3Fu015LxvSsEsma6VD3rNYu0Yw=s88-c-k-c0x00ffffff-no-rj",Naajiya TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch7.m3u8
-
-#EXTINF:-17 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch10.m3u8
-
-#EXTINF:-18 group-title="TV SUNNAH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGU7flT1hcD1usgxMjqi45POKeU7Z5iRGTsPgWwgYdfA=s160-c-k-c0x00ffffff-no-rj", Paliko TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch31.m3u8
-
-#EXTINF:-19 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/puldapiitv.jpg", Puldapii TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch15.m3u8
 
 #EXTINF:-20 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
@@ -92,9 +64,6 @@ https://flv.intechmedia.net/live/ch17.m3u8
 #EXTINF:-22 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch3.m3u8
-
-#EXTINF:-22 group-title="TV SUNNAH" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV 2
-https://surautv.siar.us/live/surautv.m3u8
 
 #EXTINF:-23 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/salamtv.png",SALAM TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -118,20 +87,3 @@ https://flv.intechmedia.net/live/ch34.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 
-
-
-#################################### RADIO #####################################
-#EXTINF:-1001 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png"",Radio Al Iman
-https://radioislamindonesia.com/aliman.mp3?_=2
-
-#EXTINF:-1004 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png"",Radio RODJA
-https://live2.radiorodja.com/rodja-low.mp3?_=3
-
-#EXTINF:-1005 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/hang.png"",Radio HANG
-http://185.47.62.52:8000/
-
-#EXTINF:-1007 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png"",Radio Syi'ar Tauhid Aceh
-http://45.64.97.82:8260/;
-
-#EXTINF:-1012 group-title="RADIO SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/radiohsi.png"",Radio HSI
-http://whsh4u-panel.com:14007/
