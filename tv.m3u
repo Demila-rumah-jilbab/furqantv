@@ -1,8 +1,11 @@
 ################################################ TV SUNNAH ##############################################################
 
 #EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.27-prod.release+82fce6f9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch4.m3u8
+##https://flv.intechmedia.net/live/ch4.m3u8
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV SUNNAH" tvg-logo="https://www.artvisi.id/logoartvisi400.png",ARTVISI TV
+https://stream.deli.web.id/hls/artvisi/live.m3u8
 
 #EXTINF:-2 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -13,8 +16,8 @@ https://flv.intechmedia.net/live/ch24.m3u8
 https://flv.intechmedia.net/live/ch9.m3u8
 
 #EXTINF:-4 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch2.m3u8
+#https://flv.intechmedia.net/live/ch2.m3u8
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
 #EXTINF:-5 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -25,8 +28,8 @@ https://flv.intechmedia.net/live/ch22.m3u8
 https://flv.intechmedia.net/live/ch8.m3u8
 
 #EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch28.m3u8
+#https://flv.intechmedia.net/live/ch28.m3u8
+https://izzah.tv/hls/live/test.m3u8
 
 #EXTINF:-9 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV 2
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
@@ -66,8 +69,8 @@ https://flv.intechmedia.net/live/ch17.m3u8
 https://flv.intechmedia.net/live/ch3.m3u8
 
 #EXTINF:-23 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/salamtv.png",SALAM TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch12.m3u8
+#https://flv.intechmedia.net/live/ch12.m3u8
+https://live.salamtelevisi.com/hls/0/stream.m3u8
 
 #EXTINF:-24 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/IMG_0083.jpeg",Kita TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -84,6 +87,5 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://flv.intechmedia.net/live/ch34.m3u8
 
 #EXTINF:-28 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/blob/main/IMG_3588.png",RINJANI TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch32.m3u8
-
+#https://flv.intechmedia.net/live/ch32.m3u8
+https://rinjanitv.cloud/hls/tvkabel.m3u8
